@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Refresher Of The Day Calendar</title>
+
+	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <style>
+      .ui-datepicker td a:after
+    {
+        content: "";
+        display: block;
+        text-align: center;
+        color: Blue;
+        font-size: small;
+        font-weight: bold;
+    }
+	.ui-widget {
+		width: 40%;
+	}
+  </style>
+	<script>
+	$(document).ready(function () {
+	  $( "#datepicker" ).datepicker({
+			onChangeMonthYear: function(month, year, dp) {
+				updateDatePickerCells();
+			},
+			beforeShowDay: $.datepicker.noWeekends,
+			beforeShow: function(elem, dp) {
+				updateDatePickerCells();
+			}
+		});
+		updateDatePickerCells();
+  
+});
+  
+  function updateDatePickerCells(dp) {
+    
+    setTimeout(function () {
+        		
+        var folks = ["Gopi", "SRK", "Selva", "Anu","Ashok"];
+
+        //Select disabled days (span) for proper indexing but // apply the rule only to enabled days(a)
+        $('.ui-datepicker td > *').each(function (idx, elem) {
+		//alert(idx);
+		var className = $(this).parent().attr('class');
+		//alert(className+"---"+(className.trim() === 'ui-datepicker-week-end'));
+		//if($(this).
+		var value = "";
+		var size = folks.length;
+		if((className.trim() === 'ui-datepicker-week-end')==false){
+			if(idx < size){
+					value = folks[idx];
+				} else{
+					value = folks[idx%size];
+				}
+		}
+            
+            var className = 'datepicker-content-' + value.toString();
+			if(value == 0)
+                addCSSRule('.ui-datepicker td a.' + className + ':after {content: "\\a0";}'); //&nbsp;
+            else
+                addCSSRule('.ui-datepicker td a.' + className + ':after {content: "' + value + '";}');
+
+            $(this).addClass(className);
+        });
+    }, 0);
+}
+var dynamicCSSRules = [];
+function addCSSRule(rule) {
+    if ($.inArray(rule, dynamicCSSRules) == -1) {
+        $('head').append('<style>' + rule + '</style>');
+        dynamicCSSRules.push(rule);
+    }
+}
+  </script>
+</head>
+<body>
+	<h3>Refresher Of The Day Calendar</h3>
+	<div id="datepicker"></div>
+</body>
+
+</html>
