@@ -1,0 +1,2826 @@
+{
+	"books": [{
+			"title": "1923 - அகநானூறு - இராஜகோபாலார்யன் பதிப்பு",
+			"author": "இராஜகோபாலார்யன்",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1923 - அகநானூறு - இராஜகோபாலார்யன் பதிப்பு",
+			"url": "https://archive.org/download/aga_nanooru/1923- அகநானூறு, இராஜகோபாலார்யன் பதிப்பு1.pdf",
+			"cover": "./img/1923- அகநானூறு, இராஜகோபாலார்யன் பதிப்பு1_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1926 - அகநானூறு - இராஜகோபாலார்யன்",
+			"author": "இராஜகோபாலார்யன்",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1926 - அகநானூறு - இராஜகோபாலார்யன்",
+			"url": "https://archive.org/download/aga_nanooru/1926- அகநானூறு, இராஜகோபாலார்யன்..pdf",
+			"cover": "./img/1926- அகநானூறு, இராஜகோபாலார்யன்._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1933 - அகநானூறு - நித்திலக்கோவை - இராஜகோபாலார்யன்",
+			"author": "இராஜகோபாலார்யன்",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1933 - அகநானூறு - நித்திலக்கோவை - இராஜகோபாலார்யன்",
+			"url": "https://archive.org/download/aga_nanooru/1933- அகநானூறு, நித்திலக்கோவை, இராஜகோபாலார்யன்.pdf",
+			"cover": "./img/1933- அகநானூறு, நித்திலக்கோவை, இராஜகோபாலார்யன்_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1940 - அகநானூறு சொற்பொழிவுகள்",
+			"author": "இராஜகோபாலார்யன்",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1940 - அகநானூறு சொற்பொழிவுகள்",
+			"url": "https://archive.org/download/aga_nanooru/1940-அகநானூறு சொற்பொழிவுகள்.pdf",
+			"cover": "./img/1940-அகநானூறு சொற்பொழிவுகள்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1941 - அகநானூறு - நித்திலக்கோவை வசனம் - ந.சி.கந்தையாபிள்ளை",
+			"author": "ந.சி.கந்தையாபிள்ளை",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1941 - அகநானூறு - நித்திலக்கோவை வசனம் - ந.சி.கந்தையாபிள்ளை",
+			"url": "https://archive.org/download/aga_nanooru/1941-அகநானூறு, நித்திலக்கோவை வசனம், ந.சி.கந்தையாபிள்ளை.pdf",
+			"cover": "./img/1941-அகநானூறு, நித்திலக்கோவை வசனம், ந.சி.கந்தையாபிள்ளை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1944 - அகநானூறு நித்திலக்கோவை - பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"author": "பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1944 - அகநானூறு நித்திலக்கோவை - பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"url": "",
+			"cover": "./img/1944- அகநானூறு நித்திலக்கோவை, பாகனேரி தனவைசிய சங்க வெளியீடு_0004.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1946 -  அகநானூறு மணிமிடைப் பவளம் - பாகனேரி தனவைசிய சங்கம்",
+			"author": "பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1946 -  அகநானூறு மணிமிடைப் பவளம் - பாகனேரி தனவைசிய சங்கம்",
+			"url": "https://archive.org/download/aga_nanooru/1946 அகநானூறு மணிமிடைப் பவளம், பாகனேரி தனவைசிய சங்கம்..pdf",
+			"cover": "./img/1946 அகநானூறு மணிமிடைப் பவளம், பாகனேரி தனவைசிய சங்கம்._0002.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1947 - அகநானூறு -  களிற்றுயானைநிரை - பாகனேரி தனவைசியர் வெளியிடு",
+			"author": "பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1947 - அகநானூறு -  களிற்றுயானைநிரை - பாகனேரி தனவைசியர் வெளியிடு",
+			"url": "",
+			"cover": "./img/1947-அகநானூறு, களிற்றுயானைநிரை, பாகனேரி தனவைசியர் வெளியிடு_0002.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1903 - ஐங்குறு நூறு, உ.வே.சா. பதிப்பு",
+			"author": "உ.வே.சா. பதிப்பு",
+			"authorUrl": "",
+			"level": "ஐங்குறுநூறு",
+			"info": "1903 - ஐங்குறு நூறு, உ.வே.சா. பதிப்பு",
+			"url": "https://archive.org/download/ainguru_nooru/1903- ஐங்குறு நூறு, உ.வே.சா. பதிப்பு.pdf",
+			"cover": "./img/1903- ஐங்குறு நூறு, உ.வே.சா. பதிப்பு_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1920 - ஐங்குறுநூறு, உ.வே.சா பதிப்பு",
+			"author": "உ.வே.சா பதிப்பு",
+			"authorUrl": "",
+			"level": "ஐங்குறுநூறு",
+			"info": "1920 - ஐங்குறுநூறு, உ.வே.சா பதிப்பு",
+			"url": "https://archive.org/download/ainguru_nooru/1920- ஐங்குறுநூறு, உ.வே.சா பதிப்பு..pdf",
+			"cover": "./img/1920- ஐங்குறுநூறு, உ.வே.சா பதிப்பு._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1938 - ஐங்குறுநூறு, ஔவை துரைசாமி",
+			"author": "ஔவை துரைசாமி",
+			"authorUrl": "",
+			"level": "ஐங்குறுநூறு",
+			"info": "1938 - ஐங்குறுநூறு, ஔவை துரைசாமி",
+			"url": "https://archive.org/download/ainguru_nooru/1938- ஐங்குறுநூறு ஔவை துரைசாமி.pdf",
+			"cover": "./img/1938- ஐங்குறுநூறு ஔவை துரைசாமி_0000.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1926 - ஐந்திணை எழுபது",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஐந்திணை_எழுபது",
+			"info": "1926 - ஐந்திணை எழுபது",
+			"url": "https://archive.org/download/ainthinai_70/1926- ஐந்திணை எழுபது (2).pdf",
+			"cover": "./img/1926- ஐந்திணை எழுபது (2)_0000.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1899 - ஆசாரக் கோவை",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஆசாரக்_கோவை",
+			"info": "1899 - ஆசாரக் கோவை",
+			"url": "https://archive.org/download/asaara_kovai/1899- ஆசாரக் கோவை.pdf",
+			"cover": "./img/1899- ஆசாரக் கோவை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1903 - ஆசாரக்கோவை - நாராயணசரணர்",
+			"author": "நாராயணசரணர்",
+			"authorUrl": "",
+			"level": "ஆசாரக்_கோவை",
+			"info": "1903 - ஆசாரக்கோவை - நாராயணசரணர்",
+			"url": "https://archive.org/download/asaara_kovai/1903-ஆசாரக்கோவை- நாராயணசரணர்.pdf",
+			"cover": "./img/1903-ஆசாரக்கோவை- நாராயணசரணர்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - ஆசாரக் கோவை",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஆசாரக்_கோவை",
+			"info": "1916 - ஆசாரக் கோவை",
+			"url": "https://archive.org/download/asaara_kovai/1916- ஆசாரக் கோவை.pdf",
+			"cover": "./img/1916- ஆசாரக் கோவை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - ஆசாரக் கோவை 2",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஆசாரக்_கோவை",
+			"info": "1916 - ஆசாரக் கோவை 2",
+			"url": "https://archive.org/download/asaara_kovai/1916- ஆசாரக் கோவை (2).pdf",
+			"cover": "./img/1916- ஆசாரக் கோவை (2)_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - ஆசாரக் கோவை",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஆசாரக்_கோவை",
+			"info": "1923 - ஆசாரக் கோவை",
+			"url": "https://archive.org/download/asaara_kovai/1923- ஆசாரக் கோவை..pdf",
+			"cover": "./img/1923- ஆசாரக் கோவை._0000.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1909 - இன்னா நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "இன்னா_நாற்பது",
+			"info": "1909 - இன்னா நாற்பது",
+			"url": "https://archive.org/download/inna_40/1909-இன்னா நாற்பது..pdf",
+			"cover": "./img/1909-இன்னா நாற்பது._0000.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1917 - இன்னிலை, வ.உ.சி",
+			"author": "வ.உ.சி",
+			"authorUrl": "",
+			"level": "இன்னிலை",
+			"info": "1917 - இன்னிலை, வ.உ.சி",
+			"url": "https://archive.org/download/innilai/1917-இன்னிலை, வ.உ.சி.pdf",
+			"cover": "./img/1917-இன்னிலை, வ.உ.சி_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1961 - இன்னிலை கைந்நிலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "இன்னிலை",
+			"info": "1961 - இன்னிலை கைந்நிலை",
+			"url": "https://archive.org/download/innilai/1961 இன்னிலை கைந்நிலை.pdf",
+			"cover": "./img/1961 இன்னிலை கைந்நிலை_0003.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - இறையனார் அகப்பொருள் உரை, பவானந்தம் பிள்ளை",
+			"author": "பவானந்தம் பிள்ளை",
+			"authorUrl": "",
+			"level": "இறையனார்_அகப்பொருள்",
+			"info": "1916 - இறையனார் அகப்பொருள் உரை, பவானந்தம் பிள்ளை",
+			"url": "https://archive.org/download/iraiyanar_agaporul/1916-  இறையனார் அகப்பொருள் உரை, பவானந்தம் பிள்ளை பதிப்பு.pdf",
+			"cover": "./img/1916-  இறையனார் அகப்பொருள் உரை, பவானந்தம் பிள்ளை பதிப்பு_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1918 - கார் நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "கார்_நாற்பது",
+			"info": "1918 - கார் நாற்பது",
+			"url": "https://archive.org/download/kaar_40/1918- கார் நாற்பது.pdf",
+			"cover": "./img/1918- கார் நாற்பது_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - கார் நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "கார்_நாற்பது",
+			"info": "1924 - கார் நாற்பது",
+			"url": "https://archive.org/download/kaar_40/1924 கார் நாற்பது.pdf",
+			"cover": "./img/1924 கார் நாற்பது_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - கார் நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "கார்_நாற்பது",
+			"info": "1925 - கார் நாற்பது",
+			"url": "https://archive.org/download/kaar_40/1925-கார் நாற்பது.pdf",
+			"cover": "./img/1925-கார் நாற்பது_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1913 - களவழி நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "களவழி_நாற்பது",
+			"info": "1913 - களவழி நாற்பது",
+			"url": "https://archive.org/download/kalavazhi_40/1913 களவழி நாற்பது.pdf",
+			"cover": "./img/1913 களவழி நாற்பது_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - களவழி நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "களவழி_நாற்பது",
+			"info": "1924 - களவழி நாற்பது",
+			"url": "https://archive.org/download/kalavazhi_40/1924-களவழி நாற்பது..pdf",
+			"cover": "./img/1924-களவழி நாற்பது._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - கலித்தொகை, அனந்தராமையர் பதிப்பு",
+			"author": "அனந்தராமையர்",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1925 - கலித்தொகை, அனந்தராமையர் பதிப்பு",
+			"url": "https://archive.org/download/kali_thogai/1925- கலித்தொகை, அன்நதராமையர் பதிப்பு1.pdf",
+			"cover": "./img/1925- கலித்தொகை, அன்நதராமையர் பதிப்பு1_k2opt_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - பாலைக்கலி, குறிஞ்சிக்கலி",
+			"author": "",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1925 - பாலைக்கலி, குறிஞ்சிக்கலி",
+			"url": "https://archive.org/download/kali_thogai/1925- பாலைக்கலி, குறிஞ்சிக்கலிt.pdf",
+			"cover": "./img/1925- பாலைக்கலி, குறிஞ்சிக்கலிt_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - மருதக்கலி",
+			"author": "",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1925 - மருதக்கலி",
+			"url": "https://archive.org/download/kali_thogai/1925. மருதக்கலி.pdf",
+			"cover": "./img/1925. மருதக்கலி_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - முல்லைக்கலி",
+			"author": "",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1925 - முல்லைக்கலி",
+			"url": "https://archive.org/download/kali_thogai/1925. முல்லைக்கலி.pdf",
+			"cover": "./img/1925. முல்லைக்கலி_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1931 - நெய்தற்கலி",
+			"author": "",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1931 - நெய்தற்கலி",
+			"url": "https://archive.org/download/kali_thogai/1931 நெய்தற்கலி.pdf",
+			"cover": "./img/1931 நெய்தற்கலி_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1938 - கலித்தொகை நச்சர் உரை, பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"author": "நச்சர்",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1938 - கலித்தொகை நச்சர் உரை, பாகனேரி தனவைசிய சங்க வெளியீடு",
+			"url": "https://archive.org/download/kali_thogai/1938- கலித்தொகை நச்சர் உரை, பாகனேரி தனவைசிய சங்க வெளியீடு .pdf",
+			"cover": "./img/1938- கலித்தொகை நச்சர் உரை, பாகனேரி தனவைசிய சங்க வெளியீடு _0004.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1958 - kaliththogai",
+			"author": "",
+			"authorUrl": "",
+			"level": "கலித்தொகை",
+			"info": "1958 - kaliththogai",
+			"url": "https://archive.org/download/kali_thogai/1958 kaliththogai.pdf",
+			"cover": "./img/1958 kaliththogai_0002.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1915 - குறுந்தொகை, சௌரிப் பெருமாள் அரங்கன்",
+			"author": "சௌரிப் பெருமாள் அரங்கன்",
+			"authorUrl": "",
+			"level": "குறுந்தொகை",
+			"info": "1915 - குறுந்தொகை, சௌரிப் பெருமாள் அரங்கன்",
+			"url": "https://archive.org/download/kurunthogai/1915- குறுந்தொகை,  சௌரிப் பெருமாள் அரங்கன்.pdf",
+			"cover": "./img/1915- குறுந்தொகை,  சௌரிப் பெருமாள் அரங்கன்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1937 - குறுந்தொகை உ.வே.சா. பதிப்பு",
+			"author": "உ.வே.சா. பதிப்பு",
+			"authorUrl": "",
+			"level": "குறுந்தொகை",
+			"info": "1937 - குறுந்தொகை உ.வே.சா. பதிப்பு",
+			"url": "https://archive.org/download/kurunthogai/1937-குறுந்தொகை உ.வே.சா. பதிப்பு..pdf",
+			"cover": "./img/1937-குறுந்தொகை உ.வே.சா. பதிப்பு._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1941 - குறுந்தொகை வசனம், சு.அ.இராமசாமி",
+			"author": "சு.அ.இராமசாமி",
+			"authorUrl": "",
+			"level": "குறுந்தொகை",
+			"info": "1941 - குறுந்தொகை வசனம், சு.அ.இராமசாமி",
+			"url": "https://archive.org/download/kurunthogai/1941- குறுந்தொகை வசனம், சு.அ., இராமசாமி.pdf",
+			"cover": "./img/1941- குறுந்தொகை வசனம், சு.அ., இராமசாமி_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1947 - குறுந்தொகை, உ.வே.சா பதிப்பு",
+			"author": "உ.வே.சா பதிப்பு",
+			"authorUrl": "",
+			"level": "குறுந்தொகை",
+			"info": "1947 - குறுந்தொகை, உ.வே.சா பதிப்பு",
+			"url": "https://archive.org/download/kurunthogai/1947- குறுந்தொகை, உ.வே.சா பதிப்பு.pdf",
+			"cover": "./img/1947- குறுந்தொகை, உ.வே.சா பதிப்பு_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1955 - குறுந்தொகை - பொ.வே. சோமசுந்தரனார் ",
+			"author": "பொ.வே. சோமசுந்தரனார்",
+			"authorUrl": "",
+			"level": "குறுந்தொகை",
+			"info": "1955 - பொ.வே. சோமசுந்த்ரனார்",
+			"url": "https://archive.org/download/kurunthogai/1955 பொ.வே. சோமசுந்த்ரனார்.pdf",
+			"cover": "./img/1955 பொ.வே. சோமசுந்த்ரனார்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1931 - மதுரைக் காஞ்சி - உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "மதுரைக்_காஞ்சி",
+			"info": "1931 - உ.வே.சா",
+			"url": "https://archive.org/download/madurai_kanchi/1931 உ.வே.சா..pdf",
+			"cover": "./img/1931 உ.வே.சா._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1912 - மலைபடுகடாம் - உ.வே.சாமிநாதையர்",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "மலைபடுகடாம்",
+			"info": "1912 - உ.வே.சாமிநாதையர்",
+			"url": "https://archive.org/download/malai_padu_kadaam/1912 உ.வே.சாமிநாதையர்.pdf",
+			"cover": "./img/1912 உ.வே.சாமிநாதையர்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1894 - Manimegalai",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1894 - Manimegalai",
+			"url": "https://archive.org/download/manimegalai/1894-MANAIMAGALAI.pdf",
+			"cover": "./img/1894-MANAIMAGALAI_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1898 - மணிமேகலை, மூலமும் உரையும்",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1898 - மணிமேகலை, மூலமும் உரையும்",
+			"url": "https://archive.org/download/manimegalai/1898-Manimegalai Moolamum Uraiyum.pdf",
+			"cover": "./img/1898-Manimegalai Moolamum Uraiyum_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1911 - மணிமேகலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1911 - மணிமேகலை",
+			"url": "https://archive.org/download/manimegalai/1911-MANIMEKHALAI.pdf",
+			"cover": "./img/1911-MANIMEKHALAI_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1921 - மணிமேகலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1921 - மணிமேகலை",
+			"url": "https://archive.org/download/manimegalai/1921-Manimegalai..pdf",
+			"cover": "./img/1921-Manimegalai._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - மணிமேகலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1923 - மணிமேகலை",
+			"url": "https://archive.org/download/manimegalai/1923-MANIMEKALAI.pdf",
+			"cover": "./img/1923-MANIMEKALAI_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - Manimegalai In Its Historical Settings",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1928 - Manimegalai In Its Historical Settings",
+			"url": "https://archive.org/download/manimegalai/1928-MANIMEKHALAI IN ITS HISTORICAL SETTINGS.pdf",
+			"cover": "./img/1928-MANIMEKHALAI IN ITS HISTORICAL SETTINGS_0008.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1942 - மணிமேகலை ஆராய்ச்சி",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1942 - மணிமேகலை ஆராய்ச்சி",
+			"url": "https://archive.org/download/manimegalai/1942-முப்பெருங்-காவியங்களில்-ஒன்றன-மணிமேகலை-ஆராய்ச்சி.pdf",
+			"cover": "./img/1942-முப்பெருங்-காவியங்களில்-ஒன்றன-மணிமேகலை-ஆராய்ச்சி_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1943 - மணிமேகலைச் சுருக்கம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1943 - மணிமேகலைச் சுருக்கம்",
+			"url": "https://archive.org/download/manimegalai/1943-மணிமேகலைச்-சுருக்கம்.pdf",
+			"cover": "./img/1943-மணிமேகலைச்-சுருக்கம்_0002.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1946 - மணிமேகலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1946 - மணிமேகலை",
+			"url": "https://archive.org/download/manimegalai/1946_மணிமேகலை.pdf",
+			"cover": "./img/1946_மணிமேகலை_0002.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1949 - மணிமேகலை, உ.வே.சா. பதிப்பு",
+			"author": "உ.வே.சா. பதிப்பு",
+			"authorUrl": "",
+			"level": "மணிமேகலை",
+			"info": "1949 - மணிமேகலை, உ.வே.சா. பதிப்பு",
+			"url": "https://archive.org/download/manimegalai/1949- மணிமேகலை, உ.வே.சா. பதிப்பு..pdf",
+			"cover": "./img/1949- மணிமேகலை, உ.வே.சா. பதிப்பு._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1911 - முதுமொழிக்காஞ்சி",
+			"author": "",
+			"authorUrl": "",
+			"level": "முதுமொழிக்காஞ்சி",
+			"info": "1911 - முதுமொழிக்காஞ்சி",
+			"url": "https://archive.org/download/muthumozhi_kanchi/1911- முதுமொழிக்காஞ்சி (2).pdf",
+			"cover": "./img/1911- முதுமொழிக்காஞ்சி (2)_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1915 - முதுமொழிக்காஞ்சி",
+			"author": "",
+			"authorUrl": "",
+			"level": "முதுமொழிக்காஞ்சி",
+			"info": "1915 - முதுமொழிக்காஞ்சி",
+			"url": "https://archive.org/download/muthumozhi_kanchi/1915-முதுமொழிக் காஞ்சி..pdf",
+			"cover": "./img/1915-முதுமொழிக் காஞ்சி._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1919 - முதுமொழிக்காஞ்சி",
+			"author": "",
+			"authorUrl": "",
+			"level": "முதுமொழிக்காஞ்சி",
+			"info": "1919 - முதுமொழிக்காஞ்சி",
+			"url": "https://archive.org/download/muthumozhi_kanchi/1919- முதுமொழிக்காஞ்சி.pdf",
+			"cover": "./img/1919- முதுமொழிக்காஞ்சி_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1915 - நற்றிணை பின்னத்தூர் நாராயணசாமி ஐயர்",
+			"author": "பின்னத்தூர் நாராயணசாமி ஐயர்",
+			"authorUrl": "",
+			"level": "நற்றிணை",
+			"info": "1915 - நற்றிணை பின்னத்தூர் நாராயணசாமி ஐயர்",
+			"url": "https://archive.org/download/nattrinai/1915-நற்றிணை பின்னத்தூர் நாராயணசாமி ஐயர்.pdf",
+			"cover": "./img/1915-நற்றிணை பின்னத்தூர் நாராயணசாமி ஐயர்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1942-43 - நற்றிணை சொற்பொழிவுகள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நற்றிணை",
+			"info": "1942-43 - நற்றிணை சொற்பொழிவுகள்",
+			"url": "https://archive.org/download/nattrinai/1942-43- நற்றிணை சொற்பொழிவுகள்.pdf",
+			"cover": "./img/1942-43- நற்றிணை சொற்பொழிவுகள்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1952 - நற்றிணை",
+			"author": "",
+			"authorUrl": "",
+			"level": "நற்றிணை",
+			"info": "1952 - நற்றிணை",
+			"url": "https://archive.org/download/nattrinai/1952- நற்றிணை.pdf",
+			"cover": "./img/1952- நற்றிணை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1931 - நெடுநல்வாடை,  உ.வே.சா. குறிப்புரை",
+			"author": "உ.வே.சா.",
+			"authorUrl": "",
+			"level": "நெடுநல்வாடை",
+			"info": "1931 - நெடுநல்வாடை,  உ.வே.சா. குறிப்புரை",
+			"url": "https://archive.org/download/nedu_nal_vaadai/1931- உ.வே.சா. குறிப்புரை.pdf",
+			"cover": "./img/1931- உ.வே.சா. குறிப்புரை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1918 - பரிபாடல், மூலமும் உரையும்",
+			"author": "",
+			"authorUrl": "",
+			"level": "பரிபாடல்",
+			"info": "1918 - பரிபாடல், மூலமும் உரையும்",
+			"url": "https://archive.org/download/pari_paadal/1918-PARIPADAL MUMULAM.pdf",
+			"cover": "./img/1918-PARIPADAL MUMULAM_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1938 - பரிபாடல் வசனம், ந.சி.க",
+			"author": "ந.சி.க",
+			"authorUrl": "",
+			"level": "பரிபாடல்",
+			"info": "1938 - பரிபாடல் வசனம், ந.சி.க",
+			"url": "https://archive.org/download/pari_paadal/1938-பரிபாடல் வசனம், ந.சி.க..pdf",
+			"cover": "./img/1938-பரிபாடல் வசனம், ந.சி.க._0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1904 - பதிற்றுப்பத்து, உ.வே.சா ",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "பதிற்றுப்பத்து",
+			"info": "1904 - பதிற்றுப்பத்து, உ.வே.சா ",
+			"url": "https://archive.org/download/pathitru_pathu/1904-பதிற்றுப்பத்து, உ.வே.சா பதிப்பு...pdf",
+			"cover": "./img/1904-பதிற்றுப்பத்து, உ.வே.சா பதிப்பு.._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1920 - பதிற்றுப்பத்து, உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "பதிற்றுப்பத்து",
+			"info": "1920 - பதிற்றுப்பத்து, உ.வே.சா",
+			"url": "https://archive.org/download/pathitru_pathu/1920-பதிற்றுப்பத்து, உ.வே.சா. பதிப்பு.pdf",
+			"cover": "./img/1920-பதிற்றுப்பத்து, உ.வே.சா. பதிப்பு_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1906 - பட்டினப்பாலை, வேதாச்சலம்",
+			"author": "வேதாச்சலம்",
+			"authorUrl": "",
+			"level": "பட்டினப்பாலை",
+			"info": "1906 - பட்டினப்பாலை, வேதாச்சலம்",
+			"url": "https://archive.org/download/patina_paalai/1906 வேதாச்சலம்..pdf",
+			"cover": "./img/1906 வேதாச்சலம்._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1909 - பட்டினப்பாலை, உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "பட்டினப்பாலை",
+			"info": "1909 - பட்டினப்பாலை, உ.வே.சா",
+			"url": "https://archive.org/download/patina_paalai/1909 உ.வே.சா..pdf",
+			"cover": "./img/1909 உ.வே.சா._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1951 - பட்டினப்பாலை, இரா. ராகவையங்கார்",
+			"author": "இரா. ராகவையங்கார்",
+			"authorUrl": "",
+			"level": "பட்டினப்பாலை",
+			"info": "1951 - பட்டினப்பாலை, இரா. ராகவையங்கார்",
+			"url": "https://archive.org/download/patina_paalai/1951 இரா. ராகவையங்கார்.pdf",
+			"cover": "./img/1951 இரா. ராகவையங்கார்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - பழமொழி நானூறு",
+			"author": "",
+			"authorUrl": "",
+			"level": "பழமொழி_நானூறு",
+			"info": "1916 - பழமொழி நானூறு",
+			"url": "https://archive.org/download/pazhamozhi/1916 பழமொழி நானூறு.pdf",
+			"cover": "./img/1916 பழமொழி நானூறு_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1917 - பழமொழிநானூறு",
+			"author": "",
+			"authorUrl": "",
+			"level": "பழமொழி_நானூறு",
+			"info": "1917 - பழமொழிநானூறு",
+			"url": "https://archive.org/download/pazhamozhi/1917- பழமொழிநானூறு.pdf",
+			"cover": "./img/1917- பழமொழிநானூறு_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1918 - பழமொழி நானூறு",
+			"author": "",
+			"authorUrl": "",
+			"level": "பழமொழி_நானூறு",
+			"info": "1918 - பழமொழி நானூறு",
+			"url": "https://archive.org/download/pazhamozhi/1918- பழமொழி நானூறு.pdf",
+			"cover": "./img/1918- பழமொழி நானூறு_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - பழமொழி நானூறு",
+			"author": "",
+			"authorUrl": "",
+			"level": "பழமொழி_நானூறு",
+			"info": "1929 - பழமொழி நானூறு",
+			"url": "https://archive.org/download/pazhamozhi/1929- பழமொழி நானூறு..pdf",
+			"cover": "./img/1929- பழமொழி நானூறு._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1963 -பழமொழி",
+			"author": "",
+			"authorUrl": "",
+			"level": "பழமொழி_நானூறு",
+			"info": "1963 -பழமொழி",
+			"url": "https://archive.org/download/pazhamozhi/1963-பழமொழி.pdf",
+			"cover": "./img/1963-பழமொழி_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1937 - பெரும்பாணாற்றுப்படை, அருளம்பலவாணன் உரை",
+			"author": "அருளம்பலவாணன் உரை",
+			"authorUrl": "",
+			"level": "பெரும்பாணாற்றுப்படை",
+			"info": "1937 - பெரும்பாணாற்றுப்படை, அருளம்பலவாணன் உரை",
+			"url": "https://archive.org/download/perum_paanatru_padai/1937 அருளம்பலவாணன் உரை.pdf",
+			"cover": "./img/1937 அருளம்பலவாணன் உரை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1949 - பெரும்பாணாற்றுப்படை, ரா. ராகவையங்கார்",
+			"author": "ரா. ராகவையங்கார்",
+			"authorUrl": "",
+			"level": "பெரும்பாணாற்றுப்படை",
+			"info": "1949 - பெரும்பாணாற்றுப்படை, ரா. ராகவையங்கார்",
+			"url": "https://archive.org/download/perum_paanatru_padai/1949- பெரும்பாணாற்றுப்படை ரா. ராகவையங்கார்.pdf",
+			"cover": "./img/1949- பெரும்பாணாற்றுப்படை ரா. ராகவையங்கார்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - பொருநராற்றுப்படை, வை.மு. கோபாலகிருஷ்ணமாச்சாரியார்",
+			"author": "வை.மு. கோபாலகிருஷ்ணமாச்சாரியார்",
+			"authorUrl": "",
+			"level": "பொருநராற்றுப்படை",
+			"info": "1929 - பொருநராற்றுப்படை, வை.மு. கோபாலகிருஷ்ணமாச்சாரியார்",
+			"url": "https://archive.org/download/porunaratrupadai/1929 வை.மு. கோபாலகிருஷ்ணமாச்சாரியார்.pdf",
+			"cover": "./img/1929 வை.மு. கோபாலகிருஷ்ணமாச்சாரியார்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1961 - பொருநராற்றுப்படை விளக்கம் கி.வா.ஜ",
+			"author": "கி.வா.ஜ",
+			"authorUrl": "",
+			"level": "பொருநராற்றுப்படை",
+			"info": "1961 - பொருநராற்றுப்படை விளக்கம் கி.வா.ஜ",
+			"url": "https://archive.org/download/porunaratrupadai/1961 பொருநராற்றுப்படை விளக்கம் கி.வா.ஜ..pdf",
+			"cover": "./img/1961 பொருநராற்றுப்படை விளக்கம் கி.வா.ஜ._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1894 - புறநானூறு, உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "புறநானூறு",
+			"info": "1894 - புறநானூறு, உ.வே.சா",
+			"url": "https://archive.org/download/pura_naanooru/1894- புறநானூறு, உ.வே.சா. பதிப்பு.pdf",
+			"cover": "./img/1894- புறநானூறு, உ.வே.சா. பதிப்பு_0003.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1911 - புறநானூறு, இளங்கலைப் பாடத்திட்டம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "புறநானூறு",
+			"info": "1911 - புறநானூறு, இளங்கலைப் பாடத்திட்டம்",
+			"url": "https://archive.org/download/pura_naanooru/1911-புறநானூறு, இளங்கலைப் பாடத்திட்டம்.pdf",
+			"cover": "./img/1911-புறநானூறு, இளங்கலைப் பாடத்திட்டம்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - புறநானூறு, உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "புறநானூறு",
+			"info": "1923 - புறநானூறு, உ.வே.சா",
+			"url": "https://archive.org/download/pura_naanooru/1923- புறநானூறு, உ.வே.சா. பதிப்பு..pdf",
+			"cover": "./img/1923- புறநானூறு, உ.வே.சா. பதிப்பு._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1935 - புறநானூறு, உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "புறநானூறு",
+			"info": "1935 - புறநானூறு, உ.வே.சா",
+			"url": "https://archive.org/download/pura_naanooru/1935 உ.வே.சா..pdf",
+			"cover": "./img/1935 உ.வே.சா._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1947 - புறநானூறு 1-200 ஔவை துரைசாமி உரை",
+			"author": "ஔவை துரைசாமி",
+			"authorUrl": "",
+			"level": "புறநானூறு",
+			"info": "1947 - புறநானூறு 1-200 ஔவை துரைசாமி உரை",
+			"url": "https://archive.org/download/pura_naanooru/1947-புறநானூறு 1-200 ஔவை துரைசாமி உரை..pdf",
+			"cover": "./img/1947-புறநானூறு 1-200 ஔவை துரைசாமி உரை._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1909 - சிறுபாணாற்றுப்படை, உ.வே.சா",
+			"author": "உ.வே.சா",
+			"authorUrl": "",
+			"level": "சிறுபாணாற்றுப்படை",
+			"info": "1909 - சிறுபாணாற்றுப்படை, உ.வே.சா",
+			"url": "https://archive.org/download/siru_paanatru_padai/1909- உ.வே.சா.pdf",
+			"cover": "./img/1909- உ.வே.சா_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1909 - சிறுபஞ்ச மூலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிறுபஞ்ச_மூலம்",
+			"info": "1909 - சிறுபஞ்ச மூலம்",
+			"url": "https://archive.org/download/siru_panja_moolam/1909 சிறுபஞ்ச மூலம்..pdf",
+			"cover": "./img/1909 சிறுபஞ்ச மூலம்._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1936 - சிறுபஞ்சமூலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிறுபஞ்ச_மூலம்",
+			"info": "1936 - சிறுபஞ்சமூலம்",
+			"url": "https://archive.org/download/siru_panja_moolam/1936 சிறுபஞ்சமூலம்.pdf",
+			"cover": "./img/1936 சிறுபஞ்சமூலம்_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1860 - திரிகடுகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திரிகடுகம்",
+			"info": "1860 - திரிகடுகம்",
+			"url": "https://archive.org/details/thirikadugam/1860-Tirikadugam.pdf",
+			"cover": "./img/1860 - திரிகடுகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1866 - திரிகடுகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திரிகடுகம்",
+			"info": "1866 - திரிகடுகம்",
+			"url": "https://archive.org/details/thirikadugam/1866 திரிகடுகம்.pdf",
+			"cover": "./img/1866 - திரிகடுகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1902 - திரிகடுகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திரிகடுகம்",
+			"info": "1902 - திரிகடுகம்",
+			"url": "https://archive.org/details/thirikadugam/1902 திரிகடுகம்.pdf",
+			"cover": "./img/1902 - திரிகடுகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1934 - திரிகடுகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திரிகடுகம்",
+			"info": "1934 - திரிகடுகம்",
+			"url": "https://archive.org/details/thirikadugam/1934 திரிகடுகம்..pdf",
+			"cover": "./img/1934 - திரிகடுகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1944 - சிறுபஞ்சமூலம், திரிகடுகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிறுபஞ்ச_மூலம்",
+			"info": "1944 - சிறுபஞ்சமூலம், திரிகடுகம்",
+			"url": "https://archive.org/download/siru_panja_moolam/1944 திரிகடுகம்& சிறுபஞ்சமூலம்..pdf",
+			"cover": "./img/1944 திரிகடுகம்& சிறுபஞ்சமூலம்._0002.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1908 - திணைமாலை நூற்றைம்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "திணைமாலை_நூற்றைம்பது",
+			"info": "1908 - திணைமாலை நூற்றைம்பது",
+			"url": "https://archive.org/download/thinai_maalai_150/1908-திணைமாலை நூற்றைம்பது..pdf",
+			"cover": "./img/1908 - திணைமாலை நூற்றைம்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1927 - திணைமாலை நூற்றைம்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "திணைமாலை_நூற்றைம்பது",
+			"info": "1927 - திணைமாலை நூற்றைம்பது",
+			"url": "https://archive.org/download/thinai_maalai_150/1927-திணைமாலை நூற்றைம்பது.pdf",
+			"cover": "./img/1927 - திணைமாலை நூற்றைம்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1938 - திணைமாலை நூற்றைம்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "திணைமாலை_நூற்றைம்பது",
+			"info": "1938 - திணைமாலை நூற்றைம்பது",
+			"url": "https://archive.org/download/thinai_maalai_150/1938-திணைமாலை நூற்றைம்பது.pdf",
+			"cover": "./img/1938 - திணைமாலை நூற்றைம்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1918 - திணைமொழி ஐம்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "திணைமொழி_ஐம்பது",
+			"info": "1918 - திணைமொழி ஐம்பது",
+			"url": "https://archive.org/download/thinaimozhi_50/1918- திணைமொழி ஐம்பது..pdf",
+			"cover": "./img/1918- திணைமொழி ஐம்பது._0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1922 - திணைமொழி ஐம்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "திணைமொழி_ஐம்பது",
+			"info": "1922 - திணைமொழி ஐம்பது",
+			"url": "https://archive.org/download/thinaimozhi_50/1922- திணைமொழி ஐம்பது.pdf",
+			"cover": "./img/1922- திணைமொழி ஐம்பது_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1839 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1839 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1839- திருமுருகாற்றுப்படை..pdf",
+			"cover": "./img/1839- திருமுருகாற்றுப்படை._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1853 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1853 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1853- திருமுருகாற்றுப்படை..pdf",
+			"cover": "./img/1853- திருமுருகாற்றுப்படை._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1873 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1873 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1873- திருமுருகாற்றுப்படை.pdf",
+			"cover": "./img/1873- திருமுருகாற்றுப்படை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1902 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1902 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1902- திருமுருகாற்றுப்படை.pdf",
+			"cover": "./img/1902- திருமுருகாற்றுப்படை_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1920 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1920 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1920- திருமுருகாற்றுப்படை..pdf",
+			"cover": "./img/1920- திருமுருகாற்றுப்படை._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1922 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1922 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1922-திருமுருகாற்றுப்படை., பூமகள் பதிப்பகம்.pdf",
+			"cover": "./img/1922-திருமுருகாற்றுப்படை., பூமகள் பதிப்பகம்_0004.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1927 - திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1927 - திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/1927- திருமுருகாற்றுப்படை..pdf",
+			"cover": "./img/1927- திருமுருகாற்றுப்படை._0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1949 - திருமுருகாற்றுப்படை, கி.வா.ஜ",
+			"author": "கி.வா.ஜ",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "1949 - திருமுருகாற்றுப்படை, கி.வா.ஜ",
+			"url": "https://archive.org/download/thirumurugatrupadai/1949-திருமுருகாற்றுப்படை  கி.வா.ஜ.pdf",
+			"cover": "./img/1949-திருமுருகாற்றுப்படை  கி.வா.ஜ_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "திருமுருகாற்றுப்படை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருமுருகாற்றுப்படை",
+			"info": "திருமுருகாற்றுப்படை",
+			"url": "https://archive.org/download/thirumurugatrupadai/orr-8718_Thirumurugatruppadai.pdf",
+			"cover": "./img/orr-8718_Thirumurugatruppadai_0000.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1847 - தொல்காப்பியம், மழவை மகாலிங்கையர்",
+			"author": "மழவை மகாலிங்கையர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1847 - தொல்காப்பியம், மழவை மகாலிங்கையர்",
+			"url": "https://archive.org/download/tholkappiyam/1847-மழவை மகாலிங்கையர் பதி..pdf",
+			"cover": "./img/தொல்காப்பியம்1.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1858 - தொல்காப்பியம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1858 - தொல்காப்பியம்",
+			"url": "https://archive.org/download/tholkappiyam/1858-THOLCAPY A-NUNNOOL.pdf",
+			"cover": "./img/1858 - தொல்காப்பியம்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1885 - தொல்காப்பியம் பொருள் நச்சினார்க்கினியர் உரை",
+			"author": "நச்சினார்க்கினியர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1885 - தொல்காப்பியம் பொருள் நச்சினார்க்கினியர் உரை",
+			"url": "https://archive.org/download/tholkappiyam/1885-தொல்காப்பியம் பொருள் நச்சினார்க்கினியர் உரை..pdf",
+			"cover": "./img/1885 - தொல்காப்பியம் பொருள் நச்சினார்க்கினியர் உரை.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1886 - தொல்காப்பியம், சொல்லதிகாரம் ,சி.வை.தாமோதரம்",
+			"author": "சி.வை.தாமோதரம்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1886 - தொல்காப்பியம், சொல்லதிகாரம் ,சி.வை.தாமோதரம்",
+			"url": "https://archive.org/download/tholkappiyam/1886-தொல் சொல் சி.வை.தாமோதரம்.pdf",
+			"cover": "./img/1886 - தொல்காப்பியம், சொல்லதிகாரம் ,சி.வை.தாமோதரம்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1892 - தொல்காப்பியம் சொல்லதிகாரம் நச்சினார்க்கினியர் உரை",
+			"author": "நச்சினார்க்கினியர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1892 - தொல்காப்பியம் சொல்லதிகாரம் நச்சினார்க்கினியர் உரை",
+			"url": "https://archive.org/download/tholkappiyam/1892-தொல் சொல்லதிகாரம் நச்சர் உரை.pdf",
+			"cover": "./img/1892 - தொல்காப்பியம் சொல்லதிகாரம் நச்சினார்க்கினியர் உரை.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1905 - தொல்காப்பியம், பாயிர விருத்தி ",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1905 - தொல்காப்பியம், பாயிர விருத்தி ",
+			"url": "https://archive.org/download/tholkappiyam/1905- பாயிர விருத்தி.pdf",
+			"cover": "./img/1905 - தொல்காப்பியம், பாயிர விருத்தி.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - தொல்காப்பியம், பவானந்தம் பிள்ளை",
+			"author": "பவானந்தம் பிள்ளை",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1916 - தொல்காப்பியம், பவானந்தம் பிள்ளை",
+			"url": "https://archive.org/download/tholkappiyam/1916- பவானந்தம் பிள்ளை பதிப்பு.pdf",
+			"cover": "./img/1916 - தொல்காப்பியம், பவானந்தம் பிள்ளை.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - தொல்காப்பியம் பொருளதிகாரம் நச்சினார்க்கினியர் உரை",
+			"author": "நச்சினார்க்கினியர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1916 - தொல்காப்பியம் பொருளதிகாரம் நச்சினார்க்கினியர் உரை",
+			"url": "https://archive.org/download/tholkappiyam/1916-தொல்காப்பியம் பொருளதிகாரம் நச்சினார்க்கினியர் உரை..pdf",
+			"cover": "./img/1916 - தொல்காப்பியம் பொருளதிகாரம் நச்சினார்க்கினியர் உரை.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1917 - தொல்காப்பியம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1917 - தொல்காப்பியம்",
+			"url": "https://archive.org/download/tholkappiyam/1917 - thol. seyyliyal.pdf",
+			"cover": "./img/1917 - தொல்காப்பியம்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1922 - தொல்காப்பிய மூலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1922 - தொல்காப்பிய மூலம்",
+			"url": "https://archive.org/download/tholkappiyam/1922-தொல்காப்பிய மூலம்.pdf",
+			"cover": "./img/1922 - தொல்காப்பிய மூலம்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1922 - தொல்காப்பியம் எழுத்ததிகாரம் சொல்லதிகாரம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1922 - தொல்காப்பியம் எழுத்ததிகாரம் சொல்லதிகாரம்",
+			"url": "https://archive.org/download/tholkappiyam/1922-தொல்காப்பியம் எழுத்ததிகாரம் சொல்லதிகாரம்.pdf",
+			"cover": "./img/1922 - தொல்காப்பியம் எழுத்ததிகாரம் சொல்லதிகாரம்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - தொல்காப்பியம், சொல்லதிகாரம், சேனாவரையம் 1",
+			"author": "சேனாவரையம்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1923 - தொல்காப்பியம், சொல்லதிகாரம், சேனாவரையம் 1",
+			"url": "https://archive.org/download/tholkappiyam/1923-தொல்-சொல்-சேனா..pdf",
+			"cover": "./img/1923 - தொல்காப்பியம், சொல்லதிகாரம், சேனாவரையம் 1.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - தொல்காப்பியம், சொல்லதிகாரம், சேனாவரையம் 2",
+			"author": "சேனாவரையம்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1923 - தொல்காப்பியம், சொல்லதிகாரம், சேனாவரையம் 2",
+			"url": "https://archive.org/download/tholkappiyam/1923-தொல்காப்பியம் சொல்லதிகாரம் சேனாவரையம்..pdf",
+			"cover": "./img/1923 - தொல்காப்பியம், சொல்லதிகாரம், சேனாவரையம் 2.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - தொல்காப்பியம் பொதுப்பாயிரம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1923 - தொல்காப்பியம் பொதுப்பாயிரம்",
+			"url": "https://archive.org/download/tholkappiyam/1923-தொல்காப்பியம் பொதுப்பாயிரம்..pdf",
+			"cover": "./img/1923 - தொல்காப்பியம் பொதுப்பாயிரம்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - தொல்காப்பிய ஆராய்ச்சி",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1924 - தொல்காப்பிய ஆராய்ச்சி",
+			"url": "https://archive.org/download/tholkappiyam/1924-தொல்காப்பிய ஆராய்ச்சி.pdf",
+			"cover": "./img/1924 - தொல்காப்பிய ஆராய்ச்சி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1926 - தொல்காப்பியம், வ.உ.சி. இளம்பூரணர் பதிப்பு",
+			"author": "இளம்பூரணர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1926 - தொல்காப்பியம், வ.உ.சி. இளம்பூரர் பதிப்பு",
+			"url": "https://archive.org/download/tholkappiyam/1926- வ.உ.சி. இளம்பூரண்ர் பதிப்பு..pdf",
+			"cover": "./img/1926 - தொல்காப்பியம், வ.உ.சி. இளம்பூரணர் பதிப்பு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1927 - தொல்காப்பியம் சொல்லதிகாரம் இளம்பூரணர் உரை",
+			"author": "இளம்பூரணர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1927 - தொல்காப்பியம் சொல்லதிகாரம் இளம்பூரணர் உரை",
+			"url": "https://archive.org/download/tholkappiyam/1927-தொல்காப்பியம் சொல்லதிகாரம் இளம்பூரணர் உரை.pdf",
+			"cover": "./img/1927 - தொல்காப்பியம் சொல்லதிகாரம் இளம்பூரணர் உரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - தொல்காப்பியம், இளம்பூரணம் எழுத்ததிகாரம்",
+			"author": "இளம்பூரணர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1928 - தொல்காப்பியம், இளம்பூரணம் எழுத்ததிகாரம்",
+			"url": "https://archive.org/download/tholkappiyam/1928-தொல். இளம்பூரணம் எழுத்ததிகாரம்.pdf",
+			"cover": "./img/1928 - தொல்காப்பியம், இளம்பூரணம் எழுத்ததிகாரம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - தொல்காப்பியம் பொருளதிகார ஆராய்ச்சி - மு.ரா",
+			"author": "மு.ரா",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1928 - தொல்காப்பியம் பொருளதிகார ஆராய்ச்சி - மு.ரா",
+			"url": "https://archive.org/download/tholkappiyam/1928-தொல். பொருளதிகார ஆராய்ச்சி - மு.ரா.pdf",
+			"cover": "./img/1928 - தொல்காப்பியம் பொருளதிகார ஆராய்ச்சி - மு.ரா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - தொல்காப்பியம், பொருள்- இளம், வ.உ.சி",
+			"author": "வ.உ.சி",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1928 - தொல்காப்பியம், பொருள்- இளம், வ.உ.சி",
+			"url": "https://archive.org/download/tholkappiyam/1928-தொல்.பொருள்-இளம்.வ.உ.சி..pdf",
+			"cover": "./img/928 - தொல்காப்பியம், பொருள்- இளம், வ.உ.சி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - தொல்காப்பியச் சேனாவரையம்",
+			"author": "சேனாவரையம்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1928 - தொல்காப்பியச் சேனாவரையம்",
+			"url": "https://archive.org/download/tholkappiyam/1928-தொல்காப்பியச் சேனாவரையம்.pdf",
+			"cover": "./img/1928 - தொல்காப்பியச் சேனாவரையம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - தொல்காப்பியம்-சொல்-தெய்வசிலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1929 - தொல்காப்பியம்-சொல்-தெய்வசிலை",
+			"url": "https://archive.org/download/tholkappiyam/1929-தொல்-சொல்-தெய்வசிலை-.pdf",
+			"cover": "./img/1929 - தொல்காப்பியம்-சொல்-தெய்வசிலை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1930 - தொல்காப்பியச் சொல்லதிகாரக் குறிப்பு",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1930 - தொல்காப்பியச் சொல்லதிகாரக் குறிப்பு",
+			"url": "https://archive.org/download/tholkappiyam/1930- தொல்காப்பியச் சொல்லதிகாரக் குறிப்பு.pdf",
+			"cover": "./img/1930 - தொல்காப்பியச் சொல்லதிகாரக் குறிப்பு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1933 - தொல்காப்பியம், வ.உ.சி",
+			"author": "வ.உ.சி",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1933 - தொல்காப்பியம், வ.உ.சி",
+			"url": "https://archive.org/download/tholkappiyam/1933- வ.உ.சி..pdf",
+			"cover": "./img/1933 - தொல்காப்பியம், வ.உ.சி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1934 - தொல்காப்பியப்-பொருளதிகார-முதற்பாகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1934 - தொல்காப்பியப்-பொருளதிகார-முதற்பாகம்",
+			"url": "https://archive.org/download/tholkappiyam/1934- தொல்காப்பியப்-பொருளதிகார-முதற்பாகம்.pdf",
+			"cover": "./img/1934 - தொல்காப்பியப்-பொருளதிகார-முதற்பாகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1934 - தொல்-பொருள்-நச்சி",
+			"author": "நச்சி",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1934 - தொல்-பொருள்-நச்சி",
+			"url": "https://archive.org/download/tholkappiyam/1934-தொல்-பொருள்-நச்சி-.pdf",
+			"cover": "./img/1934 - தொல்காப்பியம்_-_சொல்லதிகாரம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1934 - தொல்காப்பியம்_-_சொல்லதிகாரம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1934 - தொல்காப்பியம்_-_சொல்லதிகாரம்",
+			"url": "https://archive.org/download/tholkappiyam/1934_தொல்காப்பியம்_-_சொல்லதிகாரம்_ID=10.pdf",
+			"cover": "./img/1934 - தொல்-பொருள்-நச்சி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1937 - தொல்காப்பியம்_ எழுத்து- பி.சா.சு",
+			"author": "பி.சா.சு",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1937 - தொல்காப்பியம்_ எழுத்து- பி.சா.சு",
+			"url": "https://archive.org/download/tholkappiyam/1937-தொல் எழுத்து-  பி.சா.சு.pdf",
+			"cover": "./img/1937 - தொல்காப்பியம்_ எழுத்து- பி.சா.சு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1937 - தொல்காப்பியம் எழுத்ததிகாரம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1937 - தொல்காப்பியம் எழுத்ததிகாரம்",
+			"url": "https://archive.org/download/tholkappiyam/1937-தொல்காப்பியம் எழுத்ததிகாரம்.pdf",
+			"cover": "./img/1937 - தொல்காப்பியம் எழுத்ததிகாரம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1938 - தொல்காப்பியம் - சொல் - சேனாவரையம் - கணேசையர்",
+			"author": "கணேசையர்",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1938 - தொல்காப்பியம் - சொல் - சேனாவரையம் - கணேசையர்",
+			"url": "https://archive.org/download/tholkappiyam/1938-தொல்காப்பியம் - சொல் - சேனாவரையம் - கணேசையர்.pdf",
+			"cover": "./img/1938 - தொல்காப்பியம் - சொல் - சேனாவரையம் - கணேசையர்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1943 - தொல்காப்பியம் பொருளதிகாரம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "தொல்காப்பியம்",
+			"info": "1943 - தொல்காப்பியம் பொருளதிகாரம்",
+			"url": "https://archive.org/download/tholkappiyam/1943-தொல் பொருளதிகாரம் -2.pdf",
+			"cover": "./img/1943 - தொல்காப்பியம் பொருளதிகாரம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1843 - நாலடியார்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1843 - நாலடியார்",
+			"url": "https://archive.org/download/naaladiyar/1843- நாலடியார்.pdf",
+			"cover": "./img/1843 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1844 - நாலடியார்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1844 - நாலடியார்",
+			"url": "https://archive.org/download/naaladiyar/1844 நாலடியார்.pdf",
+			"cover": "./img/1844 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1852 - நாலடியார்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1852 - நாலடியார்",
+			"url": "https://archive.org/download/naaladiyar/1852- நாலடியார் -(1852).pdf",
+			"cover": "./img/1852 - நாலடியார்.jpeg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1859 - நாலடியார்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1859 - நாலடியார்",
+			"url": "https://archive.org/download/naaladiyar/1859-நாலடியார்-(1859).pdf",
+			"cover": "./img/1859 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1863 - நாலடியார்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1863 - நாலடியார்",
+			"url": "https://archive.org/download/naaladiyar/1863- நாலடியார்-.pdf",
+			"cover": "./img/1863 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1893 - நாலடியார் ஜி.யு.போப்",
+			"author": "ஜி.யு.போப்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1893 - நாலடியார் ஜி.யு.போப்",
+			"url": "https://archive.org/download/naaladiyar/1893 நாலடியார் ஜி.யு.போப்.pdf",
+			"cover": "./img/1893 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1903 - நாலடியார் குப்புசாமி முதலியார்",
+			"author": "குப்புசாமி முதலியார்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1903 - நாலடியார் குப்புசாமி முதலியார்",
+			"url": "https://archive.org/download/naaladiyar/1903 நாலடியார் குப்புசாமி முதலியார்..pdf",
+			"cover": "./img/1903 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1903 - நாலடியார், இராஜகோபாலப் பிள்ளை உரை",
+			"author": "இராஜகோபாலப் பிள்ளை",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1903 - நாலடியார், இராஜகோபாலப் பிள்ளை உரை",
+			"url": "https://archive.org/download/naaladiyar/1903- நாலடியார், இராஜகோபாலப் பிள்ளை உரை...pdf",
+			"cover": "./img/1903 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1911 - நாலடியார், வேதகிரி முதலியார்",
+			"author": "வேதகிரி முதலியார்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1911 - நாலடியார், வேதகிரி முதலியார்",
+			"url": "https://archive.org/download/naaladiyar/1911- நாலடியார், வேதகிரி முதலியார்..pdf",
+			"cover": "./img/1903 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1913 - நாலடியார், வேதகிரி முதலியார்",
+			"author": "வேதகிரி முதலியார்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1913 - நாலடியார், வேதகிரி முதலியார்",
+			"url": "https://archive.org/download/naaladiyar/1913-நாலடியார், வேதகிரி முதலியார்.pdf",
+			"cover": "./img/1913 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1914 - நாலடியார் வை.மு.கோ",
+			"author": "வை.மு.கோ",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1914 - நாலடியார் வை.மு.கோ",
+			"url": "https://archive.org/download/naaladiyar/1914 நாலடியார் வை.மு.கோ.pdf",
+			"cover": "./img/1914 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - நாலடியார், வ. மகாதேவ முதலியார்",
+			"author": "வ. மகாதேவ முதலியார்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1923 - நாலடியார், வ. மகாதேவ முதலியார்",
+			"url": "https://archive.org/download/naaladiyar/1923- நாலடியார், வ. மகாதேவ முதலியார்.pdf",
+			"cover": "./img/1923 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - நாலடியார் வேதகிரி முதலியார் உரை",
+			"author": "வேதகிரி முதலியார் ",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1925 - நாலடியார் வேதகிரி முதலியார் உரை",
+			"url": "https://archive.org/download/naaladiyar/1925- நாலடியார் வேதகிரி முதலியார் உரை.pdf",
+			"cover": "./img/1925 - நாலடியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - நாலடியார், இராஜகோபாலையங்கார்",
+			"author": "இராஜகோபாலையங்கார்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1925 - நாலடியார், இராஜகோபாலையங்கார்",
+			"url": "https://archive.org/download/naaladiyar/1925- நாலடியார், இராஜகோபாலையங்கார்.pdf",
+			"cover": "./img/1925 - நாலடியார், இராஜகோபாலையங்கார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1927 - நாலடி நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1927 - நாலடி நாற்பது",
+			"url": "https://archive.org/download/naaladiyar/1927- நாலடி நாற்பது..pdf",
+			"cover": "./img/1927 - நாலடி நாற்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - நாலடியார், வை.மு.ச",
+			"author": "வை.மு.ச",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1928 - நாலடியார், வை.மு.ச",
+			"url": "https://archive.org/download/naaladiyar/1928- நாலடியார், வை.மு.ச..pdf",
+			"cover": "./img/1928 - நாலடியார், வை.மு.ச.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1958 - நாலடியார், G.U. Pope",
+			"author": "G.U. Pope",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "1958 - நாலடியார், G.U. Pope",
+			"url": "https://archive.org/download/naaladiyar/1958 நாலடியார், G.U. Pope.pdf",
+			"cover": "./img/1958 - நாலடியார், G.U. Pope.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "நாலடியார், வேதகிரி முதலியார் - சுப்பராய முதலியார்",
+			"author": "சுப்பராய முதலியார்",
+			"authorUrl": "",
+			"level": "நாலடியார்",
+			"info": "நாலடியார், வேதகிரி முதலியார் - சுப்பராய முதலியார்",
+			"url": "https://archive.org/download/naaladiyar/வேதகிரி முதலியார் - சுப்பராய முதலியார்..pdf",
+			"cover": "./img/நாலடியார், வேதகிரி முதலியார் - சுப்பராய முதலியார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "முல்லைப்பாட்டு",
+			"author": "",
+			"authorUrl": "",
+			"level": "முல்லைப்பாட்டு",
+			"info": "",
+			"url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0488.pdf",
+			"cover": "./img/முல்லைப்பாட்டு.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1903 முல்லைப்பாட்டு உ.வே.சா.",
+			"author": "",
+			"authorUrl": "",
+			"level": "முல்லைப்பாட்டு",
+			"info": "",
+			"url": "https://archive.org/download/mullai_pattu/1903 உ.வே.சா._k2opt.pdf",
+			"cover": "./img/1903 முல்லைப்பாட்டு உ.வே.சா..jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1910 முல்லைப்பாட்டு உ.வே.சா.",
+			"author": "",
+			"authorUrl": "",
+			"level": "முல்லைப்பாட்டு",
+			"info": "",
+			"url": "https://archive.org/download/mullai_pattu/1910 உ.வே.சா._k2opt.pdf",
+			"cover": "./img/1910 முல்லைப்பாட்டு உ.வே.சா.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1911 முல்லைப்பாட்டு வேதாச்சலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "முல்லைப்பாட்டு",
+			"info": "",
+			"url": "https://archive.org/download/mullai_pattu/1911 வேதாச்சலம்._k2opt.pdf",
+			"cover": "./img/1911 முல்லைப்பாட்டு வேதாச்சலம்.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+		{
+			"title": "1958 முல்லைப்பாட்டு ஆராய்ச்சியுரை",
+			"author": "",
+			"authorUrl": "",
+			"level": "முல்லைப்பாட்டு",
+			"info": "",
+			"url": "https://archive.org/download/mullai_pattu/1958_முல்லைப்பாட்டு_ஆராய்ச்சியுரை_k2opt.pdf",
+			"cover": "./img/1958 முல்லைப்பாட்டு ஆராய்ச்சியுரை.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+		{
+			"title": "1962 முல்லைப்பாட்டு ஆராய்ச்சியுரை",
+			"author": "",
+			"authorUrl": "",
+			"level": "முல்லைப்பாட்டு",
+			"info": "",
+			"url": "https://archive.org/download/mullai_pattu/1962-முல்லைப்பாட்டு_ஆராய்ச்சியுரை (1)_k2opt.pdf",
+			"cover": "./img/1962 முல்லைப்பாட்டு ஆராய்ச்சியுரை.jpg",
+			"tags": [
+				"core"
+			]
+		},
+		{
+			"title": "1872-சிலப்பதிகாரம்- ஸ்ரீநிவாஸாச்சாரியார் பதிப்பு",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1872-சிலப்பதிகாரம்- ஸ்ரீநிவாஸாச்சாரியார் பதிப்பு_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1872.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+		{
+			"title": "1876-சிலப்பதிகாரம்- ஸ்ரீநிவாஸாச்சாரியார் பதிப்பு",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1876-சிலப்பதிகாரம் - ஸ்ரீநிவாஸாசாச்சாரி பதிப்பு_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1880.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+
+
+
+		{
+			"title": "1894-சிலப்பதிகாரம் - நாடுகாண் காதை- உ.வே.சா பதிப்பு",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1894-சிலப்பதிகாரம் - நாடுகாண் காதை- உ.வே.சா பதிப்பு_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1894.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+
+		{
+			"title": "1897- சிலப்பதிகாரம் - புறஞ்சேரியிறுத்த காதை - உ.வே.சா பதிப்பு",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1897- சிலப்பதிகாரம் - புறஞ்சேரியிறுத்த காதை - உ.வே.சா பதிப்பு._k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1897.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+		{
+			"title": "1920- இளங்கோவடிகளருளிச்செய்த-சிலப்பதிகார-மூலமும்",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1920- இளங்கோவடிகளருளிச்செய்த-சிலப்பதிகார-மூலமும்_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1920.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+		{
+			"title": "1928- BEACHSIDE SONG",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1928- BEACHSIDE SONG_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1928.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+		{
+			"title": "1946-சிலப்பதிகாரம்- ஆர். கே. சண்முகம் செட்டியார் உரை",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1946-சிலப்பதிகாரம்- ஆர். கே. சண்முகம் செட்டியார் உரை_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1946.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+		{
+			"title": "1947-KOVALAN AND KANNAKI",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1947-KOVALAN AND KANNAKI_k2opt.pdf",
+			"cover": ".img/சிலப்பதிகாரம்-1947.jpg",
+			"tags": [
+				"core"
+			]
+		},
+
+
+
+		{
+			"title": "1948- சிலப்பதிகாரம்(ரசனை) மார்க்க பந்து சர்மா",
+			"author": "",
+			"authorUrl": "",
+			"level": "சிலப்பதிகாரம்",
+			"info": "",
+			"url": "https://archive.org/download/silapathikaram/1948- சிலப்பதிகாரம்( ரசனை) மார்க்க பந்து சர்மா_k2opt.pdf",
+			"cover": "./img/சிலப்பதிகாரம்-1948.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1881 - ஏலாதி",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஏலாதி",
+			"info": "1881 - ஏலாதி",
+			"url": "https://archive.org/details/ealathi/1881-ஏலாதி.pdf",
+			"cover": "./img/1881 - ஏலாதி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1887 - ஏலாதி",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஏலாதி",
+			"info": "1887 - ஏலாதி",
+			"url": "https://archive.org/details/ealathi/1887 ஏலாதி .pdf",
+			"cover": "./img/1887 - ஏலாதி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1915 - ஏலாதி",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஏலாதி",
+			"info": "1915 - ஏலாதி",
+			"url": "https://archive.org/details/ealathi/1915- ஏலாதி.pdf",
+			"cover": "./img/1915 - ஏலாதி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - ஏலாதி, கோவிந்தராஜ முதலியார் உரை",
+			"author": "கோவிந்தராஜ முதலியார்",
+			"authorUrl": "",
+			"level": "ஏலாதி",
+			"info": "1924 - ஏலாதி, கோவிந்தராஜ முதலியார் உரை",
+			"url": "https://archive.org/details/ealathi/1924-ஏலாதி, கோவிந்தராஜ முதலியார் உரை.pdf",
+			"cover": "./img/1924-ஏலாதி%2C கோவிந்தராஜ முதலியார் உரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1939 - ஏலாதி",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஏலாதி",
+			"info": "1939 - ஏலாதி",
+			"url": "https://archive.org/details/ealathi/1939 ஏலாதி .pdf",
+			"cover": "./img/1939 - ஏலாதி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "ஏலாதி மூலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஏலாதி",
+			"info": "ஏலாதி மூலம்",
+			"url": "https://archive.org/details/ealathi/ஏலாதிமூலம், வருடம் இல்லை.pdf",
+			"cover": "./img/ஏலாதி மூலம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1922 - இனியவை நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "இனியவை_நாற்பது",
+			"info": "1922 - இனியவை நாற்பது",
+			"url": "https://archive.org/details/iniyavai_40/1922. இனியவை நாற்பது ஆண்டு.pdf",
+			"cover": "./img/1922 - இனியவை நாற்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "இனியவை நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "இனியவை_நாற்பது",
+			"info": "இனியவை நாற்பது",
+			"url": "https://archive.org/details/iniyavai_40/pm0025.pdf",
+			"cover": "./img/இனியவை நாற்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "இனியவை நாற்பது 2 ",
+			"author": "",
+			"authorUrl": "",
+			"level": "இனியவை_நாற்பது",
+			"info": "இனியவை நாற்பது 2 ",
+			"url": "https://archive.org/details/iniyavai_40/இனியவை நாற்பது.pdf",
+			"cover": "./img/இனியவை நாற்பது 2.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "இனியது நாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "இனியவை_நாற்பது",
+			"info": "இனியது நாற்பது",
+			"url": "https://archive.org/details/iniyavai_40/இனியது நாற்பது.pdf",
+			"cover": "./img/இனியது நாற்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1912 - ஐந்திணை ஐம்பது மூலமும் உரையும்",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஐந்திணை_ஐம்பது",
+			"info": "1912 - ஐந்திணை ஐம்பது மூலமும் உரையும்",
+			"url": "https://archive.org/details/ainthinai_50/1912 ஐந்திணை ஐம்பது மூலமும் உரையும்.pdf",
+			"cover": "./img/1912 ஐந்திணை ஐம்பது மூலமும் உரையும்_0001.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "ஐந்திணை ஐம்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "ஐந்திணை_ஐம்பது",
+			"info": "ஐந்திணை_ஐம்பது",
+			"url": "https://archive.org/details/ainthinai_50/ஐந்திணை ஐம்பது.pdf",
+			"cover": "./img/ஐந்திணைஐம்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1961 - இன்னிலை கைந்நிலை",
+			"author": "",
+			"authorUrl": "",
+			"level": "கைந்நிலை",
+			"info": "1961 - இன்னிலை கைந்நிலை",
+			"url": "https://archive.org/details/kainilai/1961 இன்னிலை கைந்நிலை.pdf",
+			"cover": "./img/1961 - இன்னிலை கைந்நிலை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "Kainilai - Pullangaadanaar",
+			"author": "",
+			"authorUrl": "",
+			"level": "கைந்நிலை",
+			"info": "Kainilai - Pullangaadanaar",
+			"url": "https://archive.org/details/kainilai/Kainilai - Pullangaadanaar.pdf",
+			"cover": "./img/Kainilai - Pullangaadanaar.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1908 குறிஞ்சிப்பாட்டு - உ.வே.சா",
+			"author": "",
+			"authorUrl": "",
+			"level": "குறிஞ்சிப்பாட்டு",
+			"info": "1908 - உ.வே.சா",
+			"url": "https://archive.org/details/kurinji_pattu/1908 உ.வே.சா..pdf",
+			"cover": "./img/1908 - உ.வே.சா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "குறிஞ்சிப்பாட்டு-செங்கைப் பொதுவன்",
+			"author": "செங்கைப் பொதுவன்",
+			"authorUrl": "",
+			"level": "குறிஞ்சிப்பாட்டு",
+			"info": "குறிஞ்சிப்பாட்டு-செங்கைப் பொதுவன்",
+			"url": "https://archive.org/details/kurinji_pattu/குறிஞ்சிப்பாட்டு-செங்கைப் பொதுவன்.pdf",
+			"cover": "./img/குறிஞ்சிப்பாட்டு-செங்கைப் பொதுவன்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "குறிஞ்சிப்பாட்டு",
+			"author": "",
+			"authorUrl": "",
+			"level": "குறிஞ்சிப்பாட்டு",
+			"info": "குறிஞ்சிப்பாட்டு",
+			"url": "https://archive.org/details/kurinji_pattu/குறிஞ்சிப்பாட்டு.pdf",
+			"cover": "./img/குறிஞ்சிப்பாட்டு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1911 - நான்மணிக்கடிகை மூலமும் உரையும்",
+			"author": "",
+			"authorUrl": "",
+			"level": "நான்மணிக்கடிகை",
+			"info": "1911 - நான்மணிக்கடிகை மூலமும் உரையும்",
+			"url": "https://archive.org/details/nan_mani_kadigai/1911-நான்மணிக்கடிகை மூலமும் உரையுன்.pdf",
+			"cover": "./img/1911 - நான்மணிக்கடிகை மூலமும் உரையும்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "நான்மணிக்கடிகை 1",
+			"author": "",
+			"authorUrl": "",
+			"level": "நான்மணிக்கடிகை",
+			"info": "நான்மணிக்கடிகை 1",
+			"url": "https://archive.org/details/nan_mani_kadigai/naan_mani_kadigai_project_madurai.pdf",
+			"cover": "./img/நான்மணிக்கடிகை 1.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "நான்மணிக்கடிகை 2",
+			"author": "",
+			"authorUrl": "",
+			"level": "நான்மணிக்கடிகை",
+			"info": "நான்மணிக்கடிகை 2",
+			"url": "https://archive.org/details/nan_mani_kadigai/நான்மணிக்கடிகை.pdf",
+			"cover": "./img/நான்மணிக்கடிகை 2.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1911-பதினெண்கீழ்க் கணக்கு syllabus",
+			"author": "",
+			"authorUrl": "",
+			"level": "அகநானூறு",
+			"info": "1911-பதினெண்கீழ்க் கணக்கு syllabus",
+			"url": "https://archive.org/details/18_extra/1911-பதினெண்கீழ்க் கணக்கு syllabus.pdf",
+			"cover": "./img/1911-பதினெண்கீழ்க் கணக்கு syllabus.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925- நானாற்பது",
+			"author": "",
+			"authorUrl": "",
+			"level": "நானாற்பது",
+			"info": "1925- நானாற்பது",
+			"url": "https://archive.org/details/18_extra/1925- நானாற்பது..pdf",
+			"cover": "./img/1925- நானாற்பது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "நான்மணிக்கடிகை முதலியன",
+			"author": "",
+			"authorUrl": "",
+			"level": "நான்மணிக்கடிகை",
+			"info": "நான்மணிக்கடிகை முதலியன",
+			"url": "https://archive.org/details/18_extra/நான்மணிக்கடிகை முதலியன.pdf",
+			"cover": "./img/நான்மணிக்கடிகை முதலியன.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1812 - திருக்குறள், எல்லீஸ் TIRUKKURAL ON VIRTUS",
+			"author": "எல்லீஸ்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1812 - திருக்குறள், எல்லீஸ் TIRUKKURAL ON VIRTUS",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1812- எல்லீஸ் TIRUKKURAL ON VIRTUS.pdf",
+			"cover": "./img/1812- எல்லீஸ் TIRUKKURAL ON VIRTUS.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1831 - திருக்குறள் மூலம்- தாண்டவராய முதலியார்",
+			"author": "தாண்டவராய முதலியார்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1831 - திருக்குறள் மூலம்- தாண்டவராய முதலியார்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1831 -திருக்குறள் மூலம்- தாண்டவராய முதலியார்.pdf",
+			"cover": "./img/1831 -திருக்குறள் மூலம்- தாண்டவராய முதலியார்.jpg.png",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1840 - திருக்குறள் இராமாநுஜ கவிராயர் வெள்ளுரை",
+			"author": "இராமாநுஜ கவிராயர் ",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1840 - திருக்குறள் இராமாநுஜ கவிராயர் வெள்ளுரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1840- திருக்குறள் இராமாநுஜ கவிராயர் வெள்ளுரை துரு ஆங்கில மொ.பெ..pdf",
+			"cover": "./img/1840- திருக்குறள் இராமாநுஜ கவிராயர் வெள்ளுரை துரு ஆங்கில மொ.பெ.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1842 - திருவள்ளுவ மாலை திருக்குறள் மூலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1842 - திருவள்ளுவ மாலை திருக்குறள் மூலம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1842-திருவள்ளுவ மாலை திருக்குறள் மூலம்.pdf",
+			"cover": "./img/1842-திருவள்ளுவ மாலை திருக்குறள் மூலம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1847 - திருக்குறள் மூலம், சரவணப் பெருமாளையர்",
+			"author": "சரவணப் பெருமாளையர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1847 - திருக்குறள் மூலம், சரவணப் பெருமாளையர்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1847- திருக்குறள் மூலம் சரவணப் பெருமாளையர் பதிப்பிற்கிணங்க பதிப்பித்தது.pdf",
+			"cover": "./img/1847- திருக்குறள் மூலம் சரவணப் பெருமாளையர் பதிப்பிற்கிணங்க பதிப்பித்தது.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1847 - திருக்குறள், பரிமேலழகர் உரை",
+			"author": "பரிமேலழகர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1847 - திருக்குறள், பரிமேலழகர் உரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1847-Thirukkural Parimeilazhakarurai.pdf",
+			"cover": "./img/1847-Thirukkural Parimeilazhakarurai.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1850 - திருக்குறள், வேதகிரிமுதலியார் பதிப்பு",
+			"author": "வேதகிரிமுதலியார்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1850 - திருக்குறள், வேதகிரிமுதலியார் பதிப்பு",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1850-திருக்குறள். வேதகிரிமுதலியார் பதிப்பு..pdf",
+			"cover": "./img/1850-திருக்குறள். வேதகிரிமுதலியார் பதிப்பு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1852 - திருக்குறள், இராமநுஜ கவிராயர் வெள்ளுரை",
+			"author": "இராமநுஜ கவிராயர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1852 - திருக்குறள், இராமநுஜ கவிராயர் வெள்ளுரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1852-Kural of Thiruvalluvar இராமநுஜ கவிராயர் வெள்ளுரை.pdf",
+			"cover": "./img/1852-Kural of Thiruvalluvar இராமநுஜ கவிராயர் வெள்ளுரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1856 - DER KURAL (ஜெர்மன் மொழிபெயர்ப்பு)",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1856 - DER KURAL (ஜெர்மன் மொழிபெயர்ப்பு)",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1856-DER KURAL (ஜெர்மன் மொழிபெயர்ப்பு).pdf",
+			"cover": "./img/1856-DER KURAL (ஜெர்மன் மொழிபெயர்ப்பு).jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1861 - திருக்குறள் பரிமேலழகருரை ஆறுமுக நாவலர் பதிப்பு",
+			"author": "ஆறுமுக நாவலர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1861 - திருக்குறள் பரிமேலழகருரை ஆறுமுக நாவலர் பதிப்பு",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1861- திருக்குறள் பரிமேலழகருரை ஆறுமுக நாவலர் பதிப்பு.pdf",
+			"cover": "./img/1861- திருக்குறள் பரிமேலழகருரை ஆறுமுக நாவலர் பதிப்பு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1863 - திருக்குறள் அதிகார சொரூப சூசகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1863 - திருக்குறள் அதிகார சொரூப சூசகம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1863- திருக்குறள் அதிகார சொரூப சூசகம்..pdf",
+			"cover": "./img/1863- திருக்குறள் அதிகார சொரூப சூசகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1865 - Thirukkural Charles Graul Translation",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1865 - Thirukkural Charles Graul Translation",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1865-Thirukkural Charles Graul Translation.pdf",
+			"cover": "./img/1865-Thirukkural Charles Graul Translation.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1869 - திருக்குறள் சாரம்- பரமசிவன் பிள்ளை",
+			"author": "பரமசிவன் பிள்ளை",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1869 - திருக்குறள் சாரம்- பரமசிவன் பிள்ளை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1869- திருக்குறள் சாரம்- பரமசிவன் பிள்ளை.pdf",
+			"cover": "./img/1869- திருக்குறள் சாரம்- பரமசிவன் பிள்ளை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1873 - குறள் மூலமும் உரையும்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1873 - குறள் மூலமும் உரையும்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1873- குறள் மூலமும் உரையும்..pdf",
+			"cover": "./img/1873- குறள் மூலமும் உரையும்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1878 - திருக்குறள் சரவணப்பெருமாளையர் பரிமேலழகர் உரை",
+			"author": "சரவணப்பெருமாளையர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1878 - திருக்குறள் சரவணப்பெருமாளையர் பரிமேலழகர் உரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1878-திருக்குறள் சரவணப்பெருமாளையர் பரிமேலழகர் உரை..pdf",
+			"cover": "./img/1878-திருக்குறள் சரவணப்பெருமாளையர் பரிமேலழகர் உரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1899 - திருமால் குறள் வெண்பா",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1899 - திருமால் குறள் வெண்பா",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1899- திருமால் குறள் வெண்பா..pdf",
+			"cover": "./img/1899- திருமால் குறள் வெண்பா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1909 - திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1909 - திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1909-Thirukkural.pdf",
+			"cover": "./img/1909-Thirukkural.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1913 - திருக்குறள் வசனம் அருணாச்சல கவிராயர்",
+			"author": "அருணாச்சல கவிராயர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1913 - திருக்குறள் வசனம் அருணாச்சல கவிராயர்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1913-திருக்குறள் வசனம் அருணாச்சல கவிராயர்..pdf",
+			"cover": "./img/1913-திருக்குறள் வசனம் அருணாச்சல கவிராயர்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1914 - திருக்குறள் நீதிக் கதைகள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1914 - திருக்குறள் நீதிக் கதைகள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1914- திருக்குறள் நீதிக் கதைகள்..pdf",
+			"cover": "./img/1914- திருக்குறள் நீதிக் கதைகள்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1915 - ஔவை வழங்கிய குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1915 - ஔவை வழங்கிய குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1915- ஔவை வழங்கிய குறள்..pdf",
+			"cover": "./img/1915- ஔவை வழங்கிய குறள்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1916 - The Kural or The Maxims of Tiruvalluvar- vvs ayyar",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1916 - The Kural or The Maxims of Tiruvalluvar- vvs ayyar",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1916-The Kural or The Maxims of Tiruvalluvar- vvs ayyar.pdf",
+			"cover": "./img/1916-The Kural or The Maxims of Tiruvalluvar- vvs ayyar.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "திருக்குறள் - மணக்குடவர் - வ.உ.சி. பதிப்பு",
+			"author": "மணக்குடவர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1917- திருக்குறள் மணக்குடவர் உரை- வ.உ.சி. பதிப்பு.pdf",
+			"cover": "./img/1917- திருக்குறள் மணக்குடவர் உரை- வ.உ.சி. பதிப்பு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1919 - வள்ளுவர் நேரிசை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1919 - வள்ளுவர் நேரிசை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1919- வள்ளுவர் நேரிசை.pdf",
+			"cover": "./img/1919- வள்ளுவர் நேரிசை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1921 - சோமேசர் முதுமொழி வெண்பா",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1921 - சோமேசர் முதுமொழி வெண்பா",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1921- சோமேசர் முதுமொழி வெண்பா.pdf",
+			"cover": "./img/1921- சோமேசர் முதுமொழி வெண்பா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1921 - முதற்குறள் விருத்தி- அரசஞ் சண்முகனார்",
+			"author": "அரசஞ் சண்முகனார்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1921 - முதற்குறள் விருத்தி- அரசஞ் சண்முகனார்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1921-முதற்குறள் விருத்தி- அரசஞ் சண்முகனார்..pdf",
+			"cover": "./img/1921-முதற்குறள் விருத்தி- அரசஞ் சண்முகனார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - திருக்குறள் நாடகம்- மயிலை சீனி. கோவிந்தராசன்",
+			"author": "மயிலை சீனி. கோவிந்தராசன்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1923 - திருக்குறள் நாடகம்- மயிலை சீனி. கோவிந்தராசன்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1923- திருக்குறள் நாடகம்- மயிலை சீனி. கோவிந்தராசன.pdf",
+			"cover": "./img/1923- திருக்குறள் நாடகம்- மயிலை சீனி. கோவிந்தராசன.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - திருக்குறள் வீட்டின்பால்- நல்லாசாமிப் பிள்ளை",
+			"author": "நல்லாசாமிப் பிள்ளை",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1923 - திருக்குறள் வீட்டின்பால்- நல்லாசாமிப் பிள்ளை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1923- திருக்குறள் வீட்டின்பால்- நல்லாசாமிப் பிள்ளை..pdf",
+			"cover": "./img/1923- திருக்குறள் வீட்டின்பால்- நல்லாசாமிப் பிள்ளை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1923 - திருக்குறள் நாடகம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1923 - திருக்குறள் நாடகம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1923-திருக்குறள் நாடகம்..pdf",
+			"cover": "./img/1923-திருக்குறள் நாடகம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - திருக்குறள் குமரேச வெண்பா",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1924 - திருக்குறள் குமரேச வெண்பா",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1924- திருக்குறள் குமரேச வெண்பா...pdf",
+			"cover": "./img/1924- திருக்குறள் குமரேச வெண்பா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - திருக்குறள் விளக்கம்- கி. குப்புசாமி",
+			"author": "கி. குப்புசாமி",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1924 - திருக்குறள் விளக்கம்- கி. குப்புசாமி",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1924- திருக்குறள் விளக்கம்- கி. குப்புசாமி..pdf",
+			"cover": "./img/1924- திருக்குறள் விளக்கம்- கி. குப்புசாமி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1924 - திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1924 - திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1924-Thirukkural...pdf",
+			"cover": "./img/1924-Thirukkural.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - முப்பானூற் சுருக்கம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1925 - முப்பானூற் சுருக்கம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1925-Muppanoor Churukkam.pdf",
+			"cover": "./img/1925-Muppanoor Churukkam.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1925 - திருக்குறள்-விளக்கம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1925 - திருக்குறள்-விளக்கம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1925-Thirukkural Moolamum Manakkudavar Uraiyum.pdf",
+			"cover": "./img/1925-Thirukkural Moolamum Manakkudavar Uraiyum.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1926 - திருக்குறள்-விளக்கம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1926 - திருக்குறள்-விளக்கம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1926- திருக்குறள்-விளக்கம் (1).pdf",
+			"cover": "./img/1926- திருக்குறள்-விளக்கம் (1).jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1926 - நூறு குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1926 - நூறு குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1926- நூறு குறள் (One Hundred Stanzas).pdf",
+			"cover": "./img/1926- நூறு குறள் (One Hundred Stanzas).jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1926 - திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1926 - திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1926-Thirukkural Vilakkam Moonram Paagam.pdf",
+			"cover": "./img/1926-Thirukkural Vilakkam Moonram Paagam.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1928 - திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1928 - திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1928- திருக்குறள்.pdf",
+			"cover": "./img/1928- திருக்குறள்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - திருவள்ளுவர், சோமசுந்தர பாரதி",
+			"author": "சோமசுந்தர பாரதி",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1929 - திருவள்ளுவர், சோமசுந்தர பாரதி",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1929- திருவள்ளுவர், சோமசுந்தர பாரதி..pdf",
+			"cover": "./img/1929- திருவள்ளுவர்%2C சோமசுந்தர பாரதி.jpg.png",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - திருக்குறள் தீப அலங்காரம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1929 - திருக்குறள் தீப அலங்காரம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1929-Thirukkural DeepaAlangaram.pdf",
+			"cover": "./img/1929-Thirukkural DeepaAlangaram.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - திருவள்ளுவர், சோமசுந்தர பாரதி",
+			"author": "சோமசுந்தர பாரதி",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1929 - திருவள்ளுவர், சோமசுந்தர பாரதி",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1929-திருவள்ளுவர், சோமசுந்தர பாரதி2.pdf",
+			"cover": "./img/1929-திருவள்ளுவர்%2C சோமசுந்தர பாரதி2.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1929 - திருவள்ளூவர், கோவிந்தராஜ தாஸர்",
+			"author": "கோவிந்தராஜ தாஸர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1929 - திருவள்ளூவர், கோவிந்தராஜ தாஸர்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1929-திருவள்ளூவர், கோவிந்தராஜ தாஸர்.pdf",
+			"cover": "./img/1929-திருவள்ளூவர்%2C கோவிந்தராஜ தாஸர்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1930 - திருக்குறள் குமரேச வெண்பா",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1930 - திருக்குறள் குமரேச வெண்பா",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1930- திருக்குறள் குமரேச வெண்பா.pdf",
+			"cover": "./img/1930 சோமேசர் முதுமொழி வெண்பா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1930 - திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1930 - திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1930-Thirukkural Moolam.pdf",
+			"cover": "./img/1930- திருக்குறள் குமரேச வெண்பா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1932 - திருக்குறள் ஆராய்ச்சியும் ஜைநசமய சித்தாந்த விளக்கமும், தி. அநந்தநாத நயினார்",
+			"author": "தி. அநந்தநாத நயினார்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1932 - திருக்குறள் ஆராய்ச்சியும் ஜைநசமய சித்தாந்த விளக்கமும், தி. அநந்தநாத நயினார்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1932-திருக்குறள் ஆராய்ச்சியும் ஜைநசமய சித்தாந்த விளக்கமும், தி. அநந்தநாத நயினார்..pdf",
+			"cover": "./img/1932-திருக்குறள் ஆராய்ச்சியும் ஜைநசமய சித்தாந்த விளக்கமும்%2C தி. அநந்தநாத நயினார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1933 - திருக்குறள் -அரங்கநாத  உரை",
+			"author": "அரங்கநாத  உரை",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1933 - திருக்குறள் -அரங்கநாத  உரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1933- திருக்குற-அரங்கநாத.. உரை.pdf",
+			"cover": "./img/1933- திருக்குற-அரங்கநாத.. உரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1935 - திருக்குறள். கோபாலகிருஷ்ணகோன்",
+			"author": "கோபாலகிருஷ்ணகோன்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1935 - திருக்குறள். கோபாலகிருஷ்ணகோன்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1935-திருக்குற. கோபாலகிருஷ்ணகோன்.pdf",
+			"cover": "./img/1935-திருக்குற. கோபாலகிருஷ்ணகோன்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1935 - திருக்குறள் - அறத்துப்பால் - வ.உ.சி",
+			"author": "வ.உ.சி",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1935 - திருக்குறள் - அறத்துப்பால் - வ.உ.சி",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1935-திருக்குறள் - அறத்துப்பால் - வ.உ.சி.pdf",
+			"cover": "./img/1935-திருக்குறள் - அறத்துப்பால் - வ.உ.சி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1937 - திருக்குறள் குமரேச வெண்பா",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1937 - திருக்குறள் குமரேச வெண்பா",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1937-திருக்குறள் குமரேச வெண்பா.pdf",
+			"cover": "./img/1937-திருக்குறள் குமரேச வெண்பா.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1937 - திருக்குறள், வை.மு.கோ",
+			"author": "வை.மு.கோ",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1937 - திருக்குறள், வை.மு.கோ",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1937-திருக்குறள், வை.மு.கோ..pdf",
+			"cover": "./img/1937-திருக்குறள்%2C வை.மு.கோ.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1939 - திருக்குறள் -திரு.வி.க",
+			"author": "திரு.வி.க",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1939 - திருக்குறள் -திரு.வி.க",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1939-திருக்கு.-திரு.வி.க..pdf",
+			"cover": "./img/1939-திருக்கு.-திரு.வி.க..jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1939 - திருக்குறள் பாலருரை 1",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1939 - திருக்குறள் பாலருரை 1",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1939-திருக்குறள் பாலருரை.pdf",
+			"cover": "./img/1939-திருக்குறள் பாலருரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1939 - திருக்குறள் பாலருரை 2",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1939 - திருக்குறள் பாலருரை 2",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1939-திருக்கு.பாலருரை2.pdf",
+			"cover": "./img/1939-திருக்கு.பாலருரை2.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1940 - திருக்குறள் போதினி",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1940 - திருக்குறள் போதினி",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1940-திருக்குறள் போதினி.pdf",
+			"cover": "./img/1940-திருக்குறள் போதினி.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1945 - திருக்குறள் காலிங்கர் உரை",
+			"author": "காலிங்கர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1945 - திருக்குறள் காலிங்கர் உரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1945- காலிங்கர் உரை.pdf",
+			"cover": "./img/1945- காலிங்கர் உரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1946 - திருக்குறள் பரிமேலழகருரை வை.மு.கோ",
+			"author": "வை.மு.கோ",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1946 - திருக்குறள் பரிமேலழகருரை வை.மு.கோ",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1946 திருக்குறள் பரிமேலழகருரை வை.மு.கோ..pdf",
+			"cover": "./img/1946 திருக்குறள் பரிமேலழகருரை வை.மு.கோ.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1946 - குட்டிக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1946 - குட்டிக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1946- குட்டிக்குறள்.pdf",
+			"cover": "./img/1946- குட்டிக்குறள்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1947 - திருக்குறள் நூறு",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1947 - திருக்குறள் நூறு",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1947-திருக்குறள் நூறு..pdf",
+			"cover": "./img/1947-திருக்குறள் நூறு.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1948 - கிறிஸ்து மொழிக் குறள்- திரு.வி.க",
+			"author": "திரு.வி.க",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1948 - கிறிஸ்து மொழிக் குறள்- திரு.வி.க",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1948- கிறிஸ்து மொழிக் குறள்- திரு.வி.க..pdf",
+			"cover": "./img/1948- கிறிஸ்து மொழிக் குறள்- திரு.வி.க.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1948 - திருக்குறள்-தெளிவுரை",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1948 - திருக்குறள்-தெளிவுரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1948- திருக்குறள்-தெளிவுரை-1.pdf",
+			"cover": "./img/1948- திருக்குறள்-தெளிவுரை-1.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1948 - திருக்குறள்- பரிப்பெரு.காலிங்கர் உரை",
+			"author": "காலிங்கர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1948 - திருக்குறள்- பரிப்பெரு.காலிங்கர் உரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1948-திருக்குறள்- பரிப்பெரு.காலிங்கர் உரை.pdf",
+			"cover": "./img/1948-திருக்குறள்- பரிப்பெரு.காலிங்கர் உரை.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1949 - திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1949 - திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1949-TIRUKKURAL OF TIRUVALLUVAR.pdf",
+			"cover": "./img/1949-TIRUKKURAL OF TIRUVALLUVAR.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1949 - திருக்குறள் ஆராய்ச்சி, இறையனார்",
+			"author": "இறையனார்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1949 - திருக்குறள் ஆராய்ச்சி, இறையனார்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1949-திருக்குறள் ஆராய்ச்சி, இறையனார்..pdf",
+			"cover": "./img/1949-திருக்குறள் ஆராய்ச்சி%2C இறையனார்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1950 - திருக்குறள் மூலம்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1950 - திருக்குறள் மூலம்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1950-திருக்குறள் மூலம்..pdf",
+			"cover": "./img/1950-திருக்குறள் மூலம்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "1950 - திருவள்ளுவர் திருக்குறள்",
+			"author": "",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "1950 - திருவள்ளுவர் திருக்குறள்",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/1950-திருவள்ளுவர் திருக்குறள்.pdf",
+			"cover": "./img/1950-திருவள்ளுவர் திருக்குறள்.jpg",
+			"tags": [
+				"core"
+			]
+		}, {
+			"title": "திருக்குறள் பரிமேலழகருரை",
+			"author": "பரிமேலழகர்",
+			"authorUrl": "",
+			"level": "திருக்குறள்",
+			"info": "திருக்குறள் பரிமேலழகருரை",
+			"url": "https://archive.org/details/thirukkural_sanga_ilakkiyam/திருக்குறள் பரிமேலழகருரை.pdf",
+			"cover": "./img/திருக்குறள் பரிமேலழகருரை.jpg",
+			"tags": [
+				"core"
+			]
+		}
+
+
+
+
+
+
+
+
+	]
+}

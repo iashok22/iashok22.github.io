@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Sanga Elakkiyam - Free Old Tamil Ebooks by Kaniyam Foundation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="Sanga Elakkiyam - Free Old Tamil Ebooks by Kaniyam Foundation">
+    <meta name="author" content="Kaniyam Foundation">
+
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./css/Tamilbooks.css?2908" media="all">
+
+    <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+
+    <link rel="shortcut icon" href="./img/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./img/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./img/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./img/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="./assets/ico/apple-touch-icon-57-precomposed.png">
+</head>
+
+<body>
+
+    <a href="https://github.com/KaniyamFoundation/sangaelakkiyam-web" class="github"><img src="https://s3.amazonaws.com/github/ribbons/forkme_left_white_ffffff.png" alt="Fork me on GitHub"></a>
+
+    <!-- ==========================
+    NAVBAR
+    =========================== -->
+    <div class="navbar navbar-fixed-top pbhead">
+        <a href = "index.html">
+        <img src="./img/logo_tamilbooks.png" alt="சங்க இலக்கியம்" width="60" height="50">
+        <h1><font size=5px>சங்க இலக்கியம்</font></h1></a>
+        <ul id="social_buttons">
+    <!--
+            <li>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-text="Here are the best Tamil Sangam Literature Ebooks for free ! #literature #Kaniyam #Tamil" data-via="KaniyamMagazine"></a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </li>
+-->            
+            <li><a href = "https://play.google.com/store/apps/details?id=com.jskaleel.sangaelakkiyangal">ஆன்டிராய்டு செயலி &nbsp; &nbsp; </a>  </li>
+
+            <li><a href = "intro.html">அறிமுகம் &nbsp; &nbsp; </a>  </li>
+            <li><a href = "contributors.html">பங்களித்தோர்  &nbsp; &nbsp;</a>   </li>
+            <li><a href = "http://kaniyam.com/foundation">கணியம் அறக்கட்டளை&nbsp; &nbsp;</a>   </li>
+            <li><a href = "mailto:kaniyamfoundation@gmail.com" > தொடர்புக்கு </a> </li>
+        </ul>
+        
+    </div>
+
+    <!-- adding loader -->
+    <div id="loader-wrapper">
+      <div id="loader"></div>
+      <div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+    </div>
+
+    <div class="container">
+        <!-- ==========================
+        JOBS
+        =========================== -->
+        <!--
+        <div class="row">
+            <a class="recrutement span12" href="mailto:contact@revolunet.com?subject=work at revolunet" target="_blank"> {{ • We're hiring talented web developers in Paris, France • }}</a>
+            <div class="Tamilbooks span12">
+                <p>See also :</p>
+                <a href="http://jsbooks.revolunet.com/" target="_blank">
+                    <img src="./img/logo_jsbooks.png" alt="Javascript Books" title="Learn Javascript for free !" width="100" height="27">
+                </a>
+            </div>
+        </div>
+        -->
+        <div class="row">
+             <div class="span12 row-fluid">
+                <p class="span1">நூல்கள்:</p>
+                <ul id="filterBy">
+                    			<li><a href="#" data-level="any" class="active" title="filter books by All">எல்லா நூல்களும்</a></li>
+                    			<li><a href="#" data-level="அகநானூறு" title="filter books by அகநானூறு">அகநானூறு</a></li>
+					<li><a href="#" data-level="ஐங்குறுநூறு" title="filter books by ஐங்குறுநூறு">ஐங்குறுநூறு</a></li>
+					<li><a href="#" data-level="ஐந்திணை_எழுபது" title="filter books by ஐந்திணை எழுபது">ஐந்திணை எழுபது</a></li>
+					<li><a href="#" data-level="ஆசாரக்_கோவை" title="filter books by ஆசாரக் கோவை">ஆசாரக் கோவை</a></li>
+					<li><a href="#" data-level="இன்னா_நாற்பது" title="filter books by இன்னா நாற்பது">இன்னா நாற்பது</a></li>
+					<li><a href="#" data-level="புறநானூறு" title="filter books by புறநானூறு">புறநானூறு</a></li>
+					<li><a href="#" data-level="கலித்தொகை" title="filter books by கலித்தொகை">கலித்தொகை</a></li>
+					<li><a href="#" data-level="குறுந்தொகை" title="filter books by குறுந்தொகை">குறுந்தொகை</a></li>
+					<li><a href="#" data-level="கார்_நாற்பது" title="filter books by கார் நாற்பது">கார் நாற்பது</a></li>
+					<li><a href="#" data-level="கைந்நிலை" title="filter books by கைந்நிலை">கைந்நிலை</a></li>
+                    			<li><a href="#" data-level="களவழி_நாற்பது" title="filter books by களவழி நாற்பது">களவழி நாற்பது</a></li>
+					<li><a href="#" data-level="மதுரைக்_காஞ்சி" title="filter books by மதுரைக் காஞ்சி">மதுரைக் காஞ்சி</a></li>
+					<li><a href="#" data-level="பதிற்றுப்பத்து" title="filter books by பதிற்றுப்பத்து">பதிற்றுப்பத்து</a></li>
+					<li><a href="#" data-level="மணிமேகலை" title="filter books by மணிமேகலை">மணிமேகலை</a></li>
+					<li><a href="#" data-level="இறையனார்_அகப்பொருள்" title="filter books by இறையனார் அகப்பொருள்">இறையனார் அகப்பொருள்</a></li>
+					<li><a href="#" data-level="முதுமொழிக்காஞ்சி" title="filter books by முதுமொழிக்காஞ்சி">முதுமொழிக்காஞ்சி</a></li>
+					<li><a href="#" data-level="திருமுருகாற்றுப்படை" title="filter books by திருமுருகாற்றுப்படை">திருமுருகாற்றுப்படை</a></li>
+					<li><a href="#" data-level="நெடுநல்வாடை" title="filter books by நெடுநல்வாடை">நெடுநல்வாடை</a></li>
+					<li><a href="#" data-level="பொருநராற்றுப்படை" title="filter books by பொருநராற்றுப்படை">பொருநராற்றுப்படை</a></li>
+					<li><a href="#" data-level="சிறுபஞ்ச_மூலம்" title="filter books by சிறுபஞ்ச மூலம்">சிறுபஞ்ச மூலம்</a></li>
+					<li><a href="#" data-level="பட்டினப்பாலை" title="filter books by பட்டினப்பாலை">பட்டினப்பாலை</a></li>
+					<li><a href="#" data-level="மலைபடுகடாம்" title="filter books by மலைபடுகடாம்">மலைபடுகடாம்</a></li>
+					<li><a href="#" data-level="பழமொழி_நானூறு" title="filter books by பழமொழி நானூறு">பழமொழி நானூறு</a></li>
+					<li><a href="#" data-level="பெரும்பாணாற்றுப்படை" title="filter books by பெரும்பாணாற்றுப்படை">பெரும்பாணாற்றுப்படை</a></li>
+					<li><a href="#" data-level="இன்னிலை" title="filter books by இன்னிலை">இன்னிலை</a></li>
+					<li><a href="#" data-level="சிறுபாணாற்றுப்படை" title="filter books by சிறுபாணாற்றுப்படை">சிறுபாணாற்றுப்படை</a></li>
+					<li><a href="#" data-level="தொல்காப்பியம்" title="filter books by தொல்காப்பியம்">தொல்காப்பியம்</a></li>
+					<li><a href="#" data-level="திணைமாலை_நூற்றைம்பது" title="filter books by திணைமாலை நூற்றைம்பது">திணைமாலை நூற்றைம்பது</a></li>
+					<li><a href="#" data-level="திணைமொழி_ஐம்பது" title="filter books by திணைமொழி ஐம்பது">திணைமொழி ஐம்பது</a></li>
+					<li><a href="#" data-level="பரிபாடல்" title="filter books by பரிபாடல்">பரிபாடல்</a></li>
+					<li><a href="#" data-level="நானாற்பது" title="filter books by நானாற்பது">நானாற்பது</a></li>
+					<li><a href="#" data-level="நான்மணிக்கடிகை" title="filter books by நான்மணிக்கடிகை">நான்மணிக்கடிகை</a></li>
+					<li><a href="#" data-level="நாலடியார்" title="filter books by நாலடியார்">நாலடியார்</a></li>
+					<li><a href="#" data-level="ஐந்திணை_ஐம்பது" title="filter books by ஐந்திணை_ஐம்பது">ஐந்திணை_ஐம்பது</a></li>
+					<li><a href="#" data-level="ஏலாதி" title="filter books by ஏலாதி">ஏலாதி</a></li>
+					<li><a href="#" data-level="இனியவை_நாற்பது" title="filter books by இனியவை_நாற்பது">இனியவை_நாற்பது</a></li>
+					<li><a href="#" data-level="கைந்நிலை" title="filter books by கைந்நிலை">கைந்நிலை</a></li>
+					<li><a href="#" data-level="குறிஞ்சிப்பாட்டு" title="filter books by குறிஞ்சிப்பாட்டு">குறிஞ்சிப்பாட்டு</a></li>
+					<li><a href="#" data-level="மதுரைக்_காஞ்சி" title="filter books by மதுரைக்_காஞ்சி">மதுரைக் காஞ்சி</a></li>
+					<li><a href="#" data-level="நான்மணிக்கடிகை" title="filter books by நான்மணிக்கடிகை">நான்மணிக்கடிகை</a></li>
+					<li><a href="#" data-level="திரிகடுகம்" title="filter books by திரிகடுகம்">திரிகடுகம்</a></li>
+					<li><a href="#" data-level="சிலப்பதிகாரம்" title="filter books by சிலப்பதிகாரம்">சிலப்பதிகாரம்</a></li>
+					<li><a href="#" data-level="திருக்குறள்" title="filter books by திருக்குறள்">திருக்குறள்</a></li>
+					
+                </ul>
+
+            </div>
+
+  
+        </div>
+
+        <br>
+        <br>
+        <!-- ///////// BOOKS -->
+        <div class="row" id="issueswrap"></div>
+    </div>
+
+
+
+    <!-- ==========================
+    FOOTER
+    =========================== -->
+    <div class="footer">
+        <hr>
+        <a href="http://www.kaniyam.com/foundation" target="_blank" onclick="_gaq.push(['_trackEvent', 'Tamilbooks', 'clic footer'])" >
+            <img src="img/kaniyam.png" width="250" height="80" alt="Kaniyam">
+        </a>
+        <p>தமிழ் மொழி மற்றும் இனக்குழுக்கள் சார்ந்த மெய்நிகர்வளங்கள், கருவிகள் மற்றும் அறிவுத்தொகுதிகள், அனைவருக்கும்  கட்டற்ற அணுக்கத்தில் கிடைக்கும் சூழல்</p>
+
+        <a href="mailto:kaniyamfoundation@gmail.com" target="_blank" alt="revolunet" id="footerlink">Get in touch</a> <br>
+
+        <a href="https://twitter.com/KaniyamMagazine" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @kaniyam</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="./js/mustache.js"></script>
+
+    <script type="text/javascript">
+    function randOrd(){
+      return (Math.round(Math.random())-0.5);
+    }
+    function filterBy() {
+        var // var's sort by
+            active = 'active',
+            btFilterBy = $('#filterBy').find('a'),
+            booksection = $('.booksection');
+        // interaction filter by level
+        btFilterBy.on('click', function(e) {
+            e.preventDefault();
+            var level = $(this).data('level');
+            if (level==='any') {
+                // restore all books
+                booksection.show();
+            } else {
+                booksection.not('.' + level).fadeOut('fast');
+                booksection.filter('.' + level).fadeIn('fast');
+            }
+            btFilterBy.removeClass(active);
+            $(this).addClass(active);
+        });
+    }
+    $(document).ready(function() {
+      $('body').addClass('loaded');
+      $.getJSON('./issues.json?' + Math.random(), function(data) {
+        var template = $('#booktpl').html();
+        //data.books.sort(randOrd);
+        var html = Mustache.to_html(template, data);
+        $('#issueswrap').html(html);
+                    filterBy();
+      });
+      $('#mod_infos').hide();
+      $('a.#infos').on('click', function(){
+          $('#mod_infos').slideToggle();
+      });
+    });
+    </script>
+
+    <script id="booktpl" type="text/template">
+        {{#books}}
+         <div class="span4 booksection {{ level }}">
+          <a target="_blank" href="{{url}}">
+            <div class="view"></div>
+            <div title="{{ title }}" id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover">
+            </div>
+            <h2 title="{{ title }}">{{title}}</h2>
+          </a>
+          <h3><a href="{{authorUrl}}" target="_blank">{{author}}</a></h3>
+          <p class="level">{{level}}</p>
+          <p class="description">{{info}}</p>
+        </div>
+        {{/books}}
+    </script>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-294393-1");
+        pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+  </body>
+</html>
